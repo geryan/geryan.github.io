@@ -2,7 +2,10 @@
 title: "Publications"
 ---
 
-NEEDS UPDATING
+![Current status of this page](images/dsc_0594-1680.png)
+
+[Try google scholar for now for links and more recent stuff](https://scholar.google.com.au/citations?user=pU7MMEoAAAAJ&hl=en)
+
 
 Amaël Borzée, Jeffrey McNeely, Kit Magellan, Jennifer RB Miller, Lindsay Porter, Trishna Dutta, Krishnakumar P Kadinjappalli, Sandeep Sharma, Ghazala Shahabuddin, Fikty Aprilinayati, Gerard E Ryan, Alice Hughes, Aini Hasanah Abd Mutalib, Ahmad Zafir Abdul Wahab, Damber Bista, Suchana Apple Chavanich, Ju Lian Chong, George A Gale, Hanyeh Ghaffari, Yadav Ghimirey, Vijaya Kumaran Jayaraj, Ambika Prasad Khatiwada, Monsoon Khatiwada, Murali Krishna, Ngwe Lwin, Prakash Kumar Paudel, Chinara Sadykova, Tommaso Savini, Bharat Babu Shrestha, Colin T Strine, Makamas Sutthacheep, Ee Phin Wong, Thamasak Yeemin, Natasha Zulaika Zahirudin, Li Zhang (2020). COVID-19 Highlights the Need for More Effective Wildlife Trade Legislation. Trends in Ecology and Evolution. 35: 1052–1055
 
