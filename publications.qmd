@@ -2,17 +2,29 @@
 title: "Publications"
 ---
 
-![Current status of this page](images/dsc_0594-1680.png)
+## Pre-prints
 
-This page is being slowly updated. It has a list of pre-2021 articles and a few links. [Try google scholar for now for links and more recent stuff](https://scholar.google.com.au/citations?user=pU7MMEoAAAAJ&hl=en){target="_blank"}, or [my old wordpress page for unlocked pdfs of non-OA articles](https://gerryresearch.wordpress.com/pubs/){target="_blank"}
+Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, P.T., Cromer, D., Lydeamore, M.J., McDonough, Y., Mueller, I., *Ryan, G.*, Walker, C., Wang, Y., Carvalho, N., and McVernon, J. (2023). [Cost-effective boosting allocations in the post-Omicron era of COVID-19 management]( https://doi.org/10.1101/2023.11.14.23298536){target="_blank"}. *medRxiv* 2023.11.14.23298536.
 
-Amaël Borzée, Jeffrey McNeely, Kit Magellan, Jennifer RB Miller, Lindsay Porter, Trishna Dutta, Krishnakumar P Kadinjappalli, Sandeep Sharma, Ghazala Shahabuddin, Fikty Aprilinayati, Gerard E Ryan, Alice Hughes, Aini Hasanah Abd Mutalib, Ahmad Zafir Abdul Wahab, Damber Bista, Suchana Apple Chavanich, Ju Lian Chong, George A Gale, Hanyeh Ghaffari, Yadav Ghimirey, Vijaya Kumaran Jayaraj, Ambika Prasad Khatiwada, Monsoon Khatiwada, Murali Krishna, Ngwe Lwin, Prakash Kumar Paudel, Chinara Sadykova, Tommaso Savini, Bharat Babu Shrestha, Colin T Strine, Makamas Sutthacheep, Ee Phin Wong, Thamasak Yeemin, Natasha Zulaika Zahirudin, Li Zhang (2020). [COVID-19 Highlights the Need for More Effective Wildlife Trade Legislation](https://doi.org/10.1016/j.tree.2020.10.001){target="_blank"}. Trends in Ecology and Evolution. 35: 1052--1055 [pdf](publications/TREE_35(12)1052–1055_Boruzee&al_2020.pdf){target="_blank"}
+Shearer, F.M., McCaw, J.M., *Ryan, G.E.*, Hao, T., Tierney, N., Lydeamore, M., Ellis, S., Ward, K., Wood, J., McVernon, J. and Golding, N., (2023). [Estimating the impact of test-trace-isolate-quarantine systems on SARS-CoV-2 transmission in Australia](https://doi.org/10.1101/2023.01.10.23284209){target="_blank"}. *medRxiv* 2023.01.10.23284209
 
-Brownell RL Jr, Reeves RR, Read AJ, Smith BD, Thomas PO, Ralls K, Amano M, Berggren P, Chit AM, Collins T, Currey R, Dolar L, Genov T, Hobbs R, Kreb D, Marsh H, Zhigang M, Perrin WF, Phay S, Rojas-Bracho L, Ryan GE, Shelden KEW, Slooten E, Taylor BL, Vidal O, Ding W, Whitty TS, & Wang JY (2019). [Bycatch in gillnet fisheries threatens Critically Endangered small cetaceans and many others](https://doi.org/10.3354/esr00994){target="_blank"}. Endangered Species Research 40: 285--296
+*Ryan, G.E.*, Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2022). [Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’to reopening](https://doi.org/10.1101/2022.12.15.22282869){target="_blank"}. *medRxiv* 12.15.22282869
 
-Thomas, PO, Gulland, FMD, Reeves, RR, Kreb, D, Ding, W, Smith, B, Malik, MI, Ryan, GE, & Phay, S (2019). A review of electrofishing as a potential threat to freshwater cetaceans. Endangered Species Research 39:207-220
+## Peer-reviewed articles
 
-Ryan, GE, Nicholson, E, Eames, JC, Gray, TNE, Loveridge, R, Mahood, SP, Sum P, & McCarthy, MA (2019) Simultaneous‐count models to estimate abundance from counts of unmarked individuals with imperfect detection. Conservation Biology 33(3): 697--708
+Zachreson, C., Tobin, R., Szanyi, J., Walker, C., Cromer, D., Shearer, F.M., Conway, E., *Ryan, G.*, Cheng, A., McCaw, J.M. and Geard, N., (2023). [Individual variation in vaccine immune response can produce bimodal distributions of protection](https://doi.org/10.1016/j.vaccine.2023.09.025){target="_blank"}. *Vaccine* 41(45): 6630--6636.
+
+Conway, E., Walker, C.R., Baker, C., Lydeamore, M.J., *Ryan, G.E.*, Campbell, T., Miller, J.C., Rebuli, N., Yeung, M., Kabashima, G. and Geard, N., (2023). [COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting](https://doi.org/10.1098/rspb.2023.1437){target="_blank"}. *Proceedings of the Royal Society B*, 290(2005): 20231437.
+
+Golding, N., Price, D.J., *Ryan, G.*, McVernon, J., McCaw, J.M. and Shearer, F.M., (2023). [A modelling approach to estimate the transmissibility of SARS-CoV-2 during periods of high, low, and zero case incidence](https://doi.org/10.7554/eLife.78089){target="_blank"}. *eLife*, 12: e78089.
+
+Amaël Borzée, Jeffrey McNeely, Kit Magellan, Jennifer RB Miller, Lindsay Porter, Trishna Dutta, Krishnakumar P Kadinjappalli, Sandeep Sharma, Ghazala Shahabuddin, Fikty Aprilinayati, Gerard E Ryan, Alice Hughes, Aini Hasanah Abd Mutalib, Ahmad Zafir Abdul Wahab, Damber Bista, Suchana Apple Chavanich, Ju Lian Chong, George A Gale, Hanyeh Ghaffari, Yadav Ghimirey, Vijaya Kumaran Jayaraj, Ambika Prasad Khatiwada, Monsoon Khatiwada, Murali Krishna, Ngwe Lwin, Prakash Kumar Paudel, Chinara Sadykova, Tommaso Savini, Bharat Babu Shrestha, Colin T Strine, Makamas Sutthacheep, Ee Phin Wong, Thamasak Yeemin, Natasha Zulaika Zahirudin, Li Zhang (2020). [COVID-19 Highlights the Need for More Effective Wildlife Trade Legislation](https://doi.org/10.1016/j.tree.2020.10.001){target="_blank"}. *Trends in Ecology and Evolution* 35: 1052--1055 [pdf](publications/TREE_35(12)1052–1055_Boruzee&al_2020.pdf){target="_blank"}
+
+Brownell RL Jr, Reeves RR, Read AJ, Smith BD, Thomas PO, Ralls K, Amano M, Berggren P, Chit AM, Collins T, Currey R, Dolar L, Genov T, Hobbs R, Kreb D, Marsh H, Zhigang M, Perrin WF, Phay S, Rojas-Bracho L, *Ryan GE*, Shelden KEW, Slooten E, Taylor BL, Vidal O, Ding W, Whitty TS, & Wang JY (2019). [Bycatch in gillnet fisheries threatens Critically Endangered small cetaceans and many others](https://doi.org/10.3354/esr00994){target="_blank"}. *Endangered Species Research* 40: 285--296
+
+Thomas, PO, Gulland, FMD, Reeves, RR, Kreb, D, Ding, W, Smith, B, Malik, MI, *Ryan, GE*, & Phay, S (2019). [A review of electrofishing as a potential threat to freshwater cetaceans](https://doi.org/10.3354/esr00962){target="_blank"}. *Endangered Species Research* 39:207-220
+
+*Ryan, GE*, Nicholson, E, Eames, JC, Gray, TNE, Loveridge, R, Mahood, SP, Sum P, & McCarthy, MA (2019). [Simultaneous‐count models to estimate abundance from counts of unmarked individuals with imperfect detection](https://doi.org/10.1111/cobi.13261){target="_blank"}. *Conservation Biology* 33(3): 697--708
 
 Ryan, GE, & Baker, CM (2019). Corrigendum to "A general method for assessing the risks and benefits of secrecy in conserving 'Lazarus species" \[Biol. Cons. 203, 186--187\]. Biological Conservation 230: 47
 
@@ -36,7 +48,7 @@ McCarthy, MA, Garrard, GE, Moore, AL, Parris, KM, Regan, TJ, & Ryan, GE (2011) T
 
 Ryan, GE, Dove, V, Trujillo, F, & Doherty, PF (2011) Irrawaddy dolphin demography in the Mekong River: an application of mark-resight models. Ecosphere 2(5): art58
 
-Select Grey Literature:
+## Select Grey Literature
 
 Nick Golding, Freya M. Shearer, Robert Moss, Peter Dawson, Dennis Liu, Joshua V. Ross, Rob Hyndman, Pablo Montero-Manso, Gerry Ryan, Tobin South, Jodie McVernon, David J. Price, and James M. McCaw, (2021). Situational assessment of COVID-19 in Australia Technical Report 15 March 2021 (released 28 May 2021)
 
