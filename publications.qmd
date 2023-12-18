@@ -50,6 +50,8 @@ McCarthy, MA, Garrard, GE, Moore, AL, Parris, KM, Regan, TJ, & *Ryan, GE* (2011)
 
 ## Select Grey Literature
 
+[Series of weekly COVID-19 epidemic situational assessment reports submitted to the Australian Government Department of Health Office of Health Protection from April 2020 to December 2023.](https://doi.org/10.26188/24845328.v1)
+
 Nick Golding, Freya M. Shearer, Robert Moss, Peter Dawson, Dennis Liu, Joshua V. Ross, Rob Hyndman, Pablo Montero-Manso, *Gerry Ryan*, Tobin South, Jodie McVernon, David J. Price, and James M. McCaw, (2021). Situational assessment of COVID-19 in Australia Technical Report 15 March 2021 (released 28 May 2021)
 
 *Ryan, GE* (2021). Birds in the sky, fish in the sea, money in the bank: quantitative methods for more effective conservation. Thesis submitted in total fulfilment for the degree of Doctor of Philosophy, The University of Melbourne.
