@@ -4,70 +4,70 @@ title: "Publications"
 
 ## Pre-prints
 
-Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, P.T., Cromer, D., Lydeamore, M.J., McDonough, Y., Mueller, I., *Ryan, G.*, Walker, C., Wang, Y., Carvalho, N., and McVernon, J. (2023). [Cost-effective boosting allocations in the post-Omicron era of COVID-19 management]( https://doi.org/10.1101/2023.11.14.23298536){target="_blank"}. *medRxiv* 2023.11.14.23298536.
+Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, P.T., Cromer, D., Lydeamore, M.J., McDonough, Y., Mueller, I., **Ryan, G.**, Walker, C., Wang, Y., Carvalho, N., and McVernon, J. (2023). [Cost-effective boosting allocations in the post-Omicron era of COVID-19 management]( https://doi.org/10.1101/2023.11.14.23298536){target="_blank"}. **medRxiv** 2023.11.14.23298536.
 
-Shearer, F.M., McCaw, J.M., *Ryan, G.E.*, Hao, T., Tierney, N., Lydeamore, M., Ellis, S., Ward, K., Wood, J., McVernon, J. and Golding, N., (2023). [Estimating the impact of test-trace-isolate-quarantine systems on SARS-CoV-2 transmission in Australia](https://doi.org/10.1101/2023.01.10.23284209){target="_blank"}. *medRxiv* 2023.01.10.23284209
+Shearer, F.M., McCaw, J.M., **Ryan, G.E.**, Hao, T., Tierney, N., Lydeamore, M., Ellis, S., Ward, K., Wood, J., McVernon, J. and Golding, N., (2023). [Estimating the impact of test-trace-isolate-quarantine systems on SARS-CoV-2 transmission in Australia](https://doi.org/10.1101/2023.01.10.23284209){target="_blank"}. **medRxiv** 2023.01.10.23284209
 
-*Ryan, G.E.*, Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2022). [Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’to reopening](https://doi.org/10.1101/2022.12.15.22282869){target="_blank"}. *medRxiv* 12.15.22282869
+**Ryan, G.E.**, Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2022). [Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’to reopening](https://doi.org/10.1101/2022.12.15.22282869){target="_blank"}. **medRxiv** 12.15.22282869
 
 ## Peer-reviewed articles
 
-Zachreson, C., Tobin, R., Szanyi, J., Walker, C., Cromer, D., Shearer, F.M., Conway, E., *Ryan, G.*, Cheng, A., McCaw, J.M. and Geard, N., (2023). [Individual variation in vaccine immune response can produce bimodal distributions of protection](https://doi.org/10.1016/j.vaccine.2023.09.025){target="_blank"}. *Vaccine* 41(45): 6630--6636.
+Zachreson, C., Tobin, R., Szanyi, J., Walker, C., Cromer, D., Shearer, F.M., Conway, E., **Ryan, G.**, Cheng, A., McCaw, J.M. and Geard, N., (2023). [Individual variation in vaccine immune response can produce bimodal distributions of protection](https://doi.org/10.1016/j.vaccine.2023.09.025){target="_blank"}. **Vaccine** 41(45): 6630--6636.
 
-Conway, E., Walker, C.R., Baker, C., Lydeamore, M.J., *Ryan, G.E.*, Campbell, T., Miller, J.C., Rebuli, N., Yeung, M., Kabashima, G. and Geard, N., (2023). [COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting](https://doi.org/10.1098/rspb.2023.1437){target="_blank"}. *Proceedings of the Royal Society B*, 290(2005): 20231437.
+Conway, E., Walker, C.R., Baker, C., Lydeamore, M.J., **Ryan, G.E.**, Campbell, T., Miller, J.C., Rebuli, N., Yeung, M., Kabashima, G. and Geard, N., (2023). [COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting](https://doi.org/10.1098/rspb.2023.1437){target="_blank"}. **Proceedings of the Royal Society B**, 290(2005): 20231437.
 
-Golding, N., Price, D.J., *Ryan, G.*, McVernon, J., McCaw, J.M. and Shearer, F.M., (2023). [A modelling approach to estimate the transmissibility of SARS-CoV-2 during periods of high, low, and zero case incidence](https://doi.org/10.7554/eLife.78089){target="_blank"}. *eLife*, 12: e78089.
+Golding, N., Price, D.J., **Ryan, G.**, McVernon, J., McCaw, J.M. and Shearer, F.M., (2023). [A modelling approach to estimate the transmissibility of SARS-CoV-2 during periods of high, low, and zero case incidence](https://doi.org/10.7554/eLife.78089){target="_blank"}. **eLife**, 12: e78089.
 
-Borzée, A., McNeely, J., Magellan, K., Miller, J.R., Porter, L., Dutta, T., Kadinjappalli, K.P., Sharma, S., Shahabuddin, G., Aprilinayati, F., *Ryan, G.E* and others (2020). [COVID-19 Highlights the Need for More Effective Wildlife Trade Legislation](https://doi.org/10.1016/j.tree.2020.10.001){target="_blank"}. *Trends in Ecology and Evolution* 35: 1052--1055 [pdf](publications/TREE_35(12)1052–1055_Boruzee&al_2020.pdf){target="_blank"}
+Borzée, A., McNeely, J., Magellan, K., Miller, J.R., Porter, L., Dutta, T., Kadinjappalli, K.P., Sharma, S., Shahabuddin, G., Aprilinayati, F., **Ryan, G.E** and others (2020). [COVID-19 Highlights the Need for More Effective Wildlife Trade Legislation](https://doi.org/10.1016/j.tree.2020.10.001){target="_blank"}. **Trends in Ecology and Evolution** 35: 1052--1055 [pdf](publications/TREE_35(12)1052–1055_Boruzee&al_2020.pdf){target="_blank"}
 
-Brownell RL Jr, Reeves RR, Read AJ, Smith BD, Thomas PO, Ralls K, Amano M, Berggren P, Chit AM, Collins T, Currey R, Dolar L, Genov T, Hobbs R, Kreb D, Marsh H, Zhigang M, Perrin WF, Phay S, Rojas-Bracho L, *Ryan GE*, Shelden KEW, Slooten E, Taylor BL, Vidal O, Ding W, Whitty TS, & Wang JY (2019). [Bycatch in gillnet fisheries threatens Critically Endangered small cetaceans and many others](https://doi.org/10.3354/esr00994){target="_blank"}. *Endangered Species Research* 40: 285--296
+Brownell RL Jr, Reeves RR, Read AJ, Smith BD, Thomas PO, Ralls K, Amano M, Berggren P, Chit AM, Collins T, Currey R, Dolar L, Genov T, Hobbs R, Kreb D, Marsh H, Zhigang M, Perrin WF, Phay S, Rojas-Bracho L, **Ryan GE**, Shelden KEW, Slooten E, Taylor BL, Vidal O, Ding W, Whitty TS, & Wang JY (2019). [Bycatch in gillnet fisheries threatens Critically Endangered small cetaceans and many others](https://doi.org/10.3354/esr00994){target="_blank"}. **Endangered Species Research** 40: 285--296
 
-Thomas, PO, Gulland, FMD, Reeves, RR, Kreb, D, Ding, W, Smith, B, Malik, MI, *Ryan, GE*, & Phay, S (2019). [A review of electrofishing as a potential threat to freshwater cetaceans](https://doi.org/10.3354/esr00962){target="_blank"}. *Endangered Species Research* 39: 207--220
+Thomas, PO, Gulland, FMD, Reeves, RR, Kreb, D, Ding, W, Smith, B, Malik, MI, **Ryan, GE**, & Phay, S (2019). [A review of electrofishing as a potential threat to freshwater cetaceans](https://doi.org/10.3354/esr00962){target="_blank"}. **Endangered Species Research** 39: 207--220
 
-*Ryan, GE*, Nicholson, E, Eames, JC, Gray, TNE, Loveridge, R, Mahood, SP, Sum P, & McCarthy, MA (2019). [Simultaneous‐count models to estimate abundance from counts of unmarked individuals with imperfect detection](https://doi.org/10.1111/cobi.13261){target="_blank"}. *Conservation Biology* 33(3): 697--708
+**Ryan, GE**, Nicholson, E, Eames, JC, Gray, TNE, Loveridge, R, Mahood, SP, Sum P, & McCarthy, MA (2019). [Simultaneous‐count models to estimate abundance from counts of unmarked individuals with imperfect detection](https://doi.org/10.1111/cobi.13261){target="_blank"}. **Conservation Biology** 33(3): 697--708
 
-*Ryan, GE*, & Baker, CM (2019). [Corrigendum to "A general method for assessing the risks and benefits of secrecy in conserving 'Lazarus species" \[Biol. Cons. 203, 186--187\]](https://doi.org/10.1016/j.biocon.2018.12.003){target="_blank"}. *Biological Conservation* 230: 47
+**Ryan, GE**, & Baker, CM (2019). [Corrigendum to "A general method for assessing the risks and benefits of secrecy in conserving 'Lazarus species" \[Biol. Cons. 203, 186--187\]](https://doi.org/10.1016/j.biocon.2018.12.003){target="_blank"}. **Biological Conservation** 230: 47
 
-Loveridge, R, *Ryan, GE*, Sum P, Grey-Read, O, Mahood, SP, Mould, A, Harrison, S, Crouthers, R, Ko, S., Clements, T, Eames, JC, & Pruvot, M. (2018). [Poisoning causing the decline in South-East Asia's largest vulture population](https://doi.org/10.1017/S0959270918000126){target="_blank"}. *Bird Conservation International* 29(1): 41--54
+Loveridge, R, **Ryan, GE**, Sum P, Grey-Read, O, Mahood, SP, Mould, A, Harrison, S, Crouthers, R, Ko, S., Clements, T, Eames, JC, & Pruvot, M. (2018). [Poisoning causing the decline in South-East Asia's largest vulture population](https://doi.org/10.1017/S0959270918000126){target="_blank"}. **Bird Conservation International** 29(1): 41--54
 
-Krutzen, M, Beasley I, Ackermann, CY, Lieckfeldt, D, Ludwig, A, *Ryan, GE*, Bejder, L, Parra, GJ, Wolfensberger, R, & Spencer, PBS(2018). [Demographic collapse and low genetic diversity of the Irrawaddy dolphin population inhabiting the Mekong River](https://doi.org/10.1371/journal.pone.0189200){target="_blank"}. PLoS ONE 13(1): e0189200
+Krutzen, M, Beasley I, Ackermann, CY, Lieckfeldt, D, Ludwig, A, **Ryan, GE**, Bejder, L, Parra, GJ, Wolfensberger, R, & Spencer, PBS(2018). [Demographic collapse and low genetic diversity of the Irrawaddy dolphin population inhabiting the Mekong River](https://doi.org/10.1371/journal.pone.0189200){target="_blank"}. PLoS ONE 13(1): e0189200
 
-Brownell, RL, Reeves, RR, Thomas, PO, Smith, BD, & *Ryan, GE* (2017). [Dams threaten rare Mekong dolphins](https://doi.org/10.1126/science.aam6406){target="_blank"}. *Science* 355(6327): 805
+Brownell, RL, Reeves, RR, Thomas, PO, Smith, BD, & **Ryan, GE** (2017). [Dams threaten rare Mekong dolphins](https://doi.org/10.1126/science.aam6406){target="_blank"}. **Science** 355(6327): 805
 
-Mustika, PLK, Welters, R, *Ryan, GE*, D'Lima, C, Sorongon-Yap, P, Jutapruet S, & Peter, C (2017). [A rapid assessment of wildlife tourism risk posed to cetaceans in Asia](http://dx.doi.org/10.1080/09669582.2016.1257012){target="_blank"}. *Journal of Sustainable Tourism* 25(8): 1138--115
+Mustika, PLK, Welters, R, **Ryan, GE**, D'Lima, C, Sorongon-Yap, P, Jutapruet S, & Peter, C (2017). [A rapid assessment of wildlife tourism risk posed to cetaceans in Asia](http://dx.doi.org/10.1080/09669582.2016.1257012){target="_blank"}. **Journal of Sustainable Tourism** 25(8): 1138--115
 
-*Ryan, GE*, & Baker, CM (2016). [A general method for assessing the risks and benefits of secrecy in conserving 'Lazarus species'](http://dx.doi.org/10.1016/j.biocon.2016.09.022){target="_blank"}. *Biological Conservation* 203: 186--187. See also Corrigendum, Ryan & Baker (2019)
+**Ryan, GE**, & Baker, CM (2016). [A general method for assessing the risks and benefits of secrecy in conserving 'Lazarus species'](http://dx.doi.org/10.1016/j.biocon.2016.09.022){target="_blank"}. **Biological Conservation** 203: 186--187. See also Corrigendum, Ryan & Baker (2019)
 
-Singh, R. Phan C, Prum S, Pin C, *Ryan, G*, & Wright, M (2013). [The Serengeti of Asia: current status of the Eastern Plains Landscape protected area complex, Cambodia](https://doi.org/10.2305/IUCN.CH.2013.PARKS-19-2.RS.en){target="_blank"}. *PARKS* 19(2): 23-32
+Singh, R. Phan C, Prum S, Pin C, **Ryan, G**, & Wright, M (2013). [The Serengeti of Asia: current status of the Eastern Plains Landscape protected area complex, Cambodia](https://doi.org/10.2305/IUCN.CH.2013.PARKS-19-2.RS.en){target="_blank"}. **PARKS** 19(2): 23-32
 
-*Ryan, GE* (2012) [Brahminy kites Haliastur indus fishing with Irrawaddy dolphins Orcaella brevirostris in the Mekong River](https://www.researchgate.net/publication/289744193_Brahminy_Kites_Haliastur_indus_fishing_with_Irrawaddy_dolphins_Orcaella_brevirostris_in_the_Mekong_River){target="_blank"}. *Forktail* 28: 161-162
+**Ryan, GE** (2012) [Brahminy kites Haliastur indus fishing with Irrawaddy dolphins Orcaella brevirostris in the Mekong River](https://www.researchgate.net/publication/289744193_Brahminy_Kites_Haliastur_indus_fishing_with_Irrawaddy_dolphins_Orcaella_brevirostris_in_the_Mekong_River){target="_blank"}. **Forktail** 28: 161-162
 
-Sok K, Claassen, AH, Wright, HL, & *Ryan, GE* (2012). [Waterbird nest protection on the Mekong River: a preliminary evaluation, with notes on the recovery and release of white-shouldered ibis Pseudibis davisoni chicks](https://www.fauna-flora.org/wp-content/uploads/2023/05/FFI_201207_Cambodian-Journal-of-Natural-History.pdf){target="_blank"}. *Cambodian Journal of Natural History* 2012(1): 29-41
+Sok K, Claassen, AH, Wright, HL, & **Ryan, GE** (2012). [Waterbird nest protection on the Mekong River: a preliminary evaluation, with notes on the recovery and release of white-shouldered ibis Pseudibis davisoni chicks](https://www.fauna-flora.org/wp-content/uploads/2023/05/FFI_201207_Cambodian-Journal-of-Natural-History.pdf){target="_blank"}. **Cambodian Journal of Natural History** 2012(1): 29-41
 
-McCarthy, MA, Garrard, GE, Moore, AL, Parris, KM, Regan, TJ, & *Ryan, GE* (2011) [The SAFE index should not be used for prioritization](https://doi.org/10.1890/11.WB.027){target="_blank"}. *Frontiers in Ecology and the Environment* 9(9): 486--487
+McCarthy, MA, Garrard, GE, Moore, AL, Parris, KM, Regan, TJ, & **Ryan, GE** (2011) [The SAFE index should not be used for prioritization](https://doi.org/10.1890/11.WB.027){target="_blank"}. **Frontiers in Ecology and the Environment** 9(9): 486--487
 
-*Ryan, GE*, Dove, V, Trujillo, F, & Doherty, PF (2011) [Irrawaddy dolphin demography in the Mekong River: an application of mark-resight models](https://doi.org/10.1890/ES10-00171.1){target="_blank"}. *Ecosphere* 2(5): art58
+**Ryan, GE**, Dove, V, Trujillo, F, & Doherty, PF (2011) [Irrawaddy dolphin demography in the Mekong River: an application of mark-resight models](https://doi.org/10.1890/ES10-00171.1){target="_blank"}. **Ecosphere** 2(5): art58
 
 ## Select Grey Literature
 
 [Series of weekly COVID-19 epidemic situational assessment reports submitted to the Australian Government Department of Health Office of Health Protection from April 2020 to December 2023.](https://doi.org/10.26188/24845328.v1)
 
-Nick Golding, Freya M. Shearer, Robert Moss, Peter Dawson, Dennis Liu, Joshua V. Ross, Rob Hyndman, Pablo Montero-Manso, *Gerry Ryan*, Tobin South, Jodie McVernon, David J. Price, and James M. McCaw, (2021). Situational assessment of COVID-19 in Australia Technical Report 15 March 2021 (released 28 May 2021)
+Nick Golding, Freya M. Shearer, Robert Moss, Peter Dawson, Dennis Liu, Joshua V. Ross, Rob Hyndman, Pablo Montero-Manso, **Gerry Ryan**, Tobin South, Jodie McVernon, David J. Price, and James M. McCaw, (2021). Situational assessment of COVID-19 in Australia Technical Report 15 March 2021 (released 28 May 2021)
 
-*Ryan, GE* (2021). Birds in the sky, fish in the sea, money in the bank: quantitative methods for more effective conservation. Thesis submitted in total fulfilment for the degree of Doctor of Philosophy, The University of Melbourne.
+**Ryan, GE** (2021). Birds in the sky, fish in the sea, money in the bank: quantitative methods for more effective conservation. Thesis submitted in total fulfilment for the degree of Doctor of Philosophy, The University of Melbourne.
 
-Beasley, IL, & *Ryan, GE* (2017) Assessing the impacts on Mekong River Irrawaddy dolphins from the Sambor hydropower alternatives. Chapter 9, Volume 2: Sambor Dam Alternatives, Sambor Hydropower Dam Alternatives Assessment: Final Report. Executive Summary. Technical Report.
+Beasley, IL, & **Ryan, GE** (2017) Assessing the impacts on Mekong River Irrawaddy dolphins from the Sambor hydropower alternatives. Chapter 9, Volume 2: Sambor Dam Alternatives, Sambor Hydropower Dam Alternatives Assessment: Final Report. Executive Summary. Technical Report.
 
-Ryan, GE, Mustika PL, & Welters, R (2016). Tourism puts dolphins at risk in Southeast Asia -- here's what to look for on your next holiday. The Conversation
+**Ryan, GE**, Mustika PL, & Welters, R (2016). Tourism puts dolphins at risk in Southeast Asia -- here's what to look for on your next holiday. The Conversation
 
-*Ryan, GE* (2014). The Don Sahong Dam and the Mekong Dolphin. World Wide Fund for Nature, Gland, Switzerland
+**Ryan, GE** (2014). The Don Sahong Dam and the Mekong Dolphin. World Wide Fund for Nature, Gland, Switzerland
 
-Cowling, V, & *Ryan, G* (2014). Can trans-boundary management save the dolphins in Lao PDR? Catch & Culture: Fisheries Research and Development in the Mekong Region 19:2 4--5
+Cowling, V, & **Ryan, G** (2014). Can trans-boundary management save the dolphins in Lao PDR? Catch & Culture: Fisheries Research and Development in the Mekong Region 19:2 4--5
 
-*Ryan, GE* (2013). Rhino horn and tiger blood: conservation in the Mekong. The Conversation
+**Ryan, GE** (2013). Rhino horn and tiger blood: conservation in the Mekong. The Conversation
 
-*Ryan, GE* (2013) Is the extirpation of Irrawaddy dolphins Orcaella brevirostris in Laos imminent: an assessment of status and recommendations for conservation. SC/65a/SM05. Presented to the International Whaling Commission Scientific Committee, June 2013
+**Ryan, GE** (2013) Is the extirpation of Irrawaddy dolphins Orcaella brevirostris in Laos imminent: an assessment of status and recommendations for conservation. SC/65a/SM05. Presented to the International Whaling Commission Scientific Committee, June 2013
 
-*Ryan, GE* (2012) Last chance for dolphins in Laos: A review of the history, threats, and status. A Technical Report from WWF-Greater Mekong Programme, Hanoi, Vietnam
+**Ryan, GE** (2012) Last chance for dolphins in Laos: A review of the history, threats, and status. A Technical Report from WWF-Greater Mekong Programme, Hanoi, Vietnam
 
-Rodgers, M, Nash, E, Blate, G, Congdon, G, & *Ryan, GE* (2012) Resilience on the Mekong: A vulnerability and adaptation assessment in North-East Cambodia. WWF-Cambodia Technical Report, WWF-Cambodia, Phnom Penh, Cambodia
+Rodgers, M, Nash, E, Blate, G, Congdon, G, & **Ryan, GE** (2012) Resilience on the Mekong: A vulnerability and adaptation assessment in North-East Cambodia. WWF-Cambodia Technical Report, WWF-Cambodia, Phnom Penh, Cambodia
