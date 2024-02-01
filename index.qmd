@@ -12,3 +12,5 @@ I work in the [Infectious Disease Ecology and Modelling](https://www.telethonkid
 You can contact me at <gerard.ryan@telethonkids.org.au>.
 
 My publications are available to view [on this website](publications.qmd), and my google scholar profile is [here](https://scholar.google.com.au/citations?user=pU7MMEoAAAAJ&hl=en){target="_blank"}.
+
+ORCID [0000-0003-0183-7630](https://orcid.org/0000-0003-0183-7630)
