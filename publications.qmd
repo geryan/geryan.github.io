@@ -5,7 +5,7 @@ title: "Publications"
 *Feel free to contact me for pdfs:* <gerard.ryan@telethonkids.org.au>
 
 ## Pre-prints
-Ryan, G.E., Nicholson, E., Baker, C.M., and McCarthy, M. A. (2024). [The costs and benefits of publicising species discoveries](https://doi.org/10.32942/X2Q02W). **EcoEvoRxiv**
+Ryan, G.E., Nicholson, E., Baker, C.M., and McCarthy, M. A. (2024). [The costs and benefits of publicising species discoveries](https://doi.org/10.32942/X2Q02W){target="_blank"}. **EcoEvoRxiv** 
 
 Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, P.T., Cromer, D., Lydeamore, M.J., McDonough, Y., Mueller, I., **Ryan, G.**, Walker, C., Wang, Y., Carvalho, N., and McVernon, J. (2023). [Cost-effective boosting allocations in the post-Omicron era of COVID-19 management]( https://doi.org/10.1101/2023.11.14.23298536){target="_blank"}. **medRxiv** 2023.11.14.23298536.
 
