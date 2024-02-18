@@ -9,7 +9,7 @@ Currently my major project is the [Vector Atlas](https://vectoratlas.icipe.org){
 
 I work in the [Infectious Disease Ecology and Modelling](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/){target="_blank"} team the Telethon Kids Institute, while sitting with the [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/Infectious-Disease-Dynamics){target="_blank"} at the Melbourne School of Global and Population Health, and the [Quantitative and Applied Ecology Group](http://qaeco.com/){target="_blank"} in the School of Ecosystem and Forest Sciences at the University of Melbourne, and I serve on conservation working groups for Mekong dolphins and Cambodian vultures, and am a member of the IUCN/Species Survival Commission [Cetacean Specialist Group](http://iucn-csg.org/){target="_blank"}.
 
-You can contact me at <gerard.ryan@telethonkids.org.au>.
+You can contact me at [gerard.ryan\@telethonkids.org.au](mailto:gerard.ryan@telethonkids.org.au){.email}.
 
 My publications are available to view [on this website](publications.qmd), and my google scholar profile is [here](https://scholar.google.com.au/citations?user=pU7MMEoAAAAJ&hl=en){target="_blank"}.
 

@@ -2,9 +2,21 @@
 title: "Publications"
 ---
 
-*Feel free to contact me for pdfs:* <gerard.ryan@telethonkids.org.au>
+
+*Contact me for pdfs:* <gerard.ryan@telethonkids.org.au>
+
+<!-- Leap ahead to:\ -->
+
+<!--   - [Pre-prints](#pre-prints)\ -->
+<!--   - [Peer-reviewed articles](#peer-reviewed-articles)\ -->
+<!--   - [Select Grey Literature](#select-grey-literature)\ -->
+<!--   - [Data](#data)\ -->
+<!--   - [Archived Code](#archived-code)\ -->
+<!--   - [Published Pre-prints](#published-pre-prints)\ -->
+
 
 ## Pre-prints
+
 **Ryan, G.E.**, Nicholson, E., Baker, C.M., and McCarthy, M. A. (2024). [The costs and benefits of publicising species discoveries](https://doi.org/10.32942/X2Q02W){target="_blank"}. **EcoEvoRxiv** 10.32942/X2Q02W
 
 Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, P.T., Cromer, D., Lydeamore, M.J., McDonough, Y., Mueller, I., **Ryan, G.**, Walker, C., Wang, Y., Carvalho, N., and McVernon, J. (2023). [Cost-effective boosting allocations in the post-Omicron era of COVID-19 management]( https://doi.org/10.1101/2023.11.14.23298536){target="_blank"}. **medRxiv** 2023.11.14.23298536.
@@ -13,11 +25,12 @@ Shearer, F.M., McCaw, J.M., **Ryan, G.E.**, Hao, T., Tierney, N., Lydeamore, M.,
 
 **Ryan, G.E.**, Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2022). [Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’ to reopening](https://doi.org/10.1101/2022.12.15.22282869){target="_blank"}. **medRxiv** 12.15.22282869
 
+
 ## Peer-reviewed articles
 
 18.\ Zachreson, C., Tobin, R., Szanyi, J., Walker, C., Cromer, D., Shearer, F.M., Conway, E., **Ryan, G.**, Cheng, A., McCaw, J.M. and Geard, N., (2023). [Individual variation in vaccine immune response can produce bimodal distributions of protection](https://doi.org/10.1016/j.vaccine.2023.09.025){target="_blank"}. **Vaccine** 41(45): 6630--6636.
 
-17.\ Conway, E., Walker, C.R., Baker, C., Lydeamore, M.J., **Ryan, G.E.**, Campbell, T., Miller, J.C., Rebuli, N., Yeung, M., Kabashima, G. and Geard, N., (2023). [COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting](https://doi.org/10.1098/rspb.2023.1437){target="_blank"}. **Proceedings of the Royal Society B**, 290(2005): 20231437.
+17.\ Conway, E., Walker, C.R., Baker, C., Lydeamore, M.J., **Ryan, G.E.**, Campbell, T., Miller, J.C., Rebuli, N., Yeung, M., Kabashima, G., Geard, N., Wood, J., McCaw, J.M., McVernon, J., Golding, N., Price, D.J, & Shearer, F.M. (2023). [COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting](https://doi.org/10.1098/rspb.2023.1437){target="_blank"}. **Proceedings of the Royal Society B**, 290(2005): 20231437.
 
 16.\ Golding, N., Price, D.J., **Ryan, G.**, McVernon, J., McCaw, J.M. and Shearer, F.M., (2023). [A modelling approach to estimate the transmissibility of SARS-CoV-2 during periods of high, low, and zero case incidence](https://doi.org/10.7554/eLife.78089){target="_blank"}. **eLife**, 12: e78089.
 
@@ -79,3 +92,25 @@ Cowling, V, & **Ryan, G** (2014). Can trans-boundary management save the dolphin
 **Ryan, GE** (2012) Last chance for dolphins in Laos: A review of the history, threats, and status. A Technical Report from WWF-Greater Mekong Programme, Hanoi, Vietnam
 
 Rodgers, M, Nash, E, Blate, G, Congdon, G, & **Ryan, GE** (2012) Resilience on the Mekong: A vulnerability and adaptation assessment in North-East Cambodia. WWF-Cambodia Technical Report, WWF-Cambodia, Phnom Penh, Cambodia
+
+
+## Data
+
+**Ryan, G**, Nicholson, E, & McCarthy, M (2024). Data and questionnaire  for "The costs and benefits of publicising species discoveries". The University of Melbourne. Dataset. Figshare DOI [10.26188/11357126](https://doi.org/10.26188/11357126){target="_blank"}
+
+
+## Archived code
+
+**Ryan, G**. (2024). geryan/publicising_species_discoveries. Zenodo. <https://zenodo.org/doi/10.5281/zenodo.10622196>{target="_blank"}
+
+**Ryan GE**, & Golding, N. (2022). geryan/nat_plan_figs: Citable version for national plan paper (Version v1). Zenodo. <https://doi.org/10.5281/zenodo.7117840>{target="_blank"}
+
+**Ryan, G.** (2018). geryan/simultaneous_count_models: Archiving release of SCM code (Version 1). Zenodo. <https://doi.org/10.5281/zenodo.1473876>{target="_blank"}
+
+
+## Published Pre-prints
+
+Conway, E., Walker, C.R., Baker, C., Lydeamore, M.J., **Ryan, G.E.**, Campbell, T., Miller, J.C., Yeung, M., Kabashima, G., Wood, J., Rebuli, N., McCaw, J.M., McVernon, J., Golding, N., Price, D.J, & Shearer, F.M. (2022) [COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting](https://doi.org/10.1101/2022.12.04.22282996){target="_blank"} medRxiv 2022.12.04.22282996 *Now Conway et al. Proc. Roy. Soc. B.  290(2005): 20231437*
+
+Golding, N., Price, D.J., **Ryan, G.**, McVernon, J., McCaw, J.M. and Shearer, F.M. (2021) [Estimating the transmissibility of SARS-CoV-2 during periods of high, low and zero case incidence](https://doi.org/10.1101/2021.11.28.21264509){target="_blank"} medRxiv 2021.11.28.21264509 *Now Golding et al. 2023 eLife 12:e78089*
+
