@@ -3,7 +3,7 @@ title: "Publications"
 ---
 
 
-*Contact me for pdfs:* <gerard.ryan@telethonkids.org.au>
+*Most articles are free to read, but contact me for pdfs:* <gerard.ryan@telethonkids.org.au>
 
 <!-- Leap ahead to:\ -->
 
@@ -23,10 +23,9 @@ Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, 
 
 Shearer, F.M., McCaw, J.M., **Ryan, G.E.**, Hao, T., Tierney, N., Lydeamore, M., Ellis, S., Ward, K., Wood, J., McVernon, J. and Golding, N., (2023). [Estimating the impact of test-trace-isolate-quarantine systems on SARS-CoV-2 transmission in Australia](https://doi.org/10.1101/2023.01.10.23284209){target="_blank"}. **medRxiv** 2023.01.10.23284209
 
-**Ryan, G.E.**, Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2022). [Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’ to reopening](https://doi.org/10.1101/2022.12.15.22282869){target="_blank"}. **medRxiv** 12.15.22282869
-
 
 ## Peer-reviewed articles
+19.\ **Ryan, G.E.**, Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2024). [Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’ to reopening](https://doi.org/10.1016/j.epidem.2024.100763){target="_blank"}. **Epidemics** 47(2024): 100763
 
 18.\ Zachreson, C., Tobin, R., Szanyi, J., Walker, C., Cromer, D., Shearer, F.M., Conway, E., **Ryan, G.**, Cheng, A., McCaw, J.M. and Geard, N., (2023). [Individual variation in vaccine immune response can produce bimodal distributions of protection](https://doi.org/10.1016/j.vaccine.2023.09.025){target="_blank"}. **Vaccine** 41(45): 6630--6636.
 
@@ -110,7 +109,9 @@ Rodgers, M, Nash, E, Blate, G, Congdon, G, & **Ryan, GE** (2012) Resilience on t
 
 ## Published Pre-prints
 
-Conway, E., Walker, C.R., Baker, C., Lydeamore, M.J., **Ryan, G.E.**, Campbell, T., Miller, J.C., Yeung, M., Kabashima, G., Wood, J., Rebuli, N., McCaw, J.M., McVernon, J., Golding, N., Price, D.J, & Shearer, F.M. (2022) [COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting](https://doi.org/10.1101/2022.12.04.22282996){target="_blank"} medRxiv 2022.12.04.22282996 *Now Conway et al. Proc. Roy. Soc. B.  290(2005): 20231437*
+**Ryan, G.E.**, Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2022). [Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’ to reopening](https://doi.org/10.1101/2022.12.15.22282869){target="_blank"}. **medRxiv** 12.15.22282869 *Now Ryan et al. 2024 Epidemics 47(2024): 100763*
+
+Conway, E., Walker, C.R., Baker, C., Lydeamore, M.J., **Ryan, G.E.**, Campbell, T., Miller, J.C., Yeung, M., Kabashima, G., Wood, J., Rebuli, N., McCaw, J.M., McVernon, J., Golding, N., Price, D.J, & Shearer, F.M. (2022) [COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting](https://doi.org/10.1101/2022.12.04.22282996){target="_blank"} medRxiv 2022.12.04.22282996 *Now Conway et al.2024 Proc. Roy. Soc. B.  290(2005): 20231437*
 
 Golding, N., Price, D.J., **Ryan, G.**, McVernon, J., McCaw, J.M. and Shearer, F.M. (2021) [Estimating the transmissibility of SARS-CoV-2 during periods of high, low and zero case incidence](https://doi.org/10.1101/2021.11.28.21264509){target="_blank"} medRxiv 2021.11.28.21264509 *Now Golding et al. 2023 eLife 12:e78089*
 
