@@ -3,13 +3,15 @@ title: "Publications"
 ---
 
 
-*Most articles are free to read, but contact me for pdfs:* <gerard.ryan@telethonkids.org.au>
+*Most articles are free to read, but contact me for pdfs:*
+
+<gerard.ryan@telethonkids.org.au>
 
 <!-- Leap ahead to:\ -->
 
 <!--   - [Pre-prints](#pre-prints)\ -->
 <!--   - [Peer-reviewed articles](#peer-reviewed-articles)\ -->
-<!--   - [Select Grey Literature](#select-grey-literature)\ -->
+<!--   - [Grey Literature](#grey-literature)\ -->
 <!--   - [Data](#data)\ -->
 <!--   - [Archived Code](#archived-code)\ -->
 <!--   - [Published Pre-prints](#published-pre-prints)\ -->
@@ -64,7 +66,9 @@ Shearer, F.M., McCaw, J.M., **Ryan, G.E.**, Hao, T., Tierney, N., Lydeamore, M.,
 1.\ **Ryan, GE**, Dove, V, Trujillo, F, & Doherty, PF (2011) [Irrawaddy dolphin demography in the Mekong River: an application of mark-resight models](https://doi.org/10.1890/ES10-00171.1){target="_blank"}. **Ecosphere** 2(5): art58
 
 
-## Select Grey Literature
+## Grey Literature
+Select grey literature.
+
 
 [Series of weekly COVID-19 epidemic situational assessment reports submitted to the Australian Government Department of Health Office of Health Protection from April 2020 to December 2023.](https://doi.org/10.26188/24845328.v1){target="_blank"}
 
@@ -75,6 +79,8 @@ McCaw, JM, R Moss, DJ Price, FM Shearer, R Tobin, N Golding, T Hao, **G Ryan**, 
 Nick Golding, Freya M. Shearer, Robert Moss, Peter Dawson, Dennis Liu, Joshua V. Ross, Rob Hyndman, Pablo Montero-Manso, **Gerry Ryan**, Tobin South, Jodie McVernon, David J. Price, and James M. McCaw, (2021). [Situational assessment of COVID-19 in Australia Technical Report 15 March 2021 (released 28 May 2021)](https://mspgh.unimelb.edu.au/__data/assets/pdf_file/0004/4230643/2021-03-15-Technical-report-public-release.pdf){target="_blank"}
 
 **Ryan, GE** (2021). [Birds in the sky, fish in the sea, money in the bank: quantitative methods for more effective conservation](http://hdl.handle.net/11343/274714){target="_blank"}. Thesis submitted in total fulfilment for the degree of Doctor of Philosophy, The University of Melbourne. URI: http://hdl.handle.net/11343/274714
+
+Casey Visintin, Natalie Briscoe, Michael Kearney, **Gerry Ryan**, Craig Nitschke & Brendan Wintle (2021). [Mapping distributions, threats and opportunities to conserve the greater glider by integrating biophysical and spatially-explicit population models](https://www.nespthreatenedspecies.edu.au/media/zo3iv32y/4-4-8-greater-glider-modelling-report_v2.pdf){target="_blank"}. NESP Threatened Species Recovery Hub Project 4.4.8 report, Brisbane
 
 Beasley, IL, & **Ryan, GE** (2017) Assessing the impacts on Mekong River Irrawaddy dolphins from the Sambor hydropower alternatives. Chapter 9, Volume 2: Sambor Dam Alternatives, Sambor Hydropower Dam Alternatives Assessment: Final Report. Executive Summary. Technical Report.
 
