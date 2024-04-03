@@ -26,7 +26,7 @@ Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, 
 
 
 ## Peer-reviewed articles
-20.\ Shearer, F.M., McCaw, J.M., **Ryan, G.E.**, Hao, T., Tierney, N., Lydeamore, M., Ellis, S., Ward, K., Wood, J., McVernon, J. and Golding, N., (2024). [Estimating the impact of test-trace-isolate-quarantine systems on SARS-CoV-2 transmission in Australia](https://doi.org/10.1016/j.epidem.2024.100764){target="_blank"}. **Epidemics ** *In press* 10074
+20.\ Shearer, F.M., McCaw, J.M., **Ryan, G.E.**, Hao, T., Tierney, N., Lydeamore, M., Ellis, S., Ward, K., Wood, J., McVernon, J. and Golding, N., (2024). [Estimating the impact of test-trace-isolate-quarantine systems on SARS-CoV-2 transmission in Australia](https://doi.org/10.1016/j.epidem.2024.100764){target="_blank"}. **Epidemics ** 47(2024): 100764
 
 19.\ **Ryan, G.E.**, Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2024). [Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’ to reopening](https://doi.org/10.1016/j.epidem.2024.100763){target="_blank"}. **Epidemics** 47(2024): 100763
 
