@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gerry Ryan",
-    "section": "",
-    "text": "I’m a researcher using modelling methods to support decision making in public health and conservation science.\nCurrently my major project is the Vector Atlas. My work encompasses a variety of fields including species distribution and population dynamics, risk assessment, infectious and vector-borne diseases, behaviour, effectiveness evaluation, Bayesian hierarchical modelling, social research, wildlife monitoring, demography, and basic ecology.\nI work in the Infectious Disease Ecology and Modelling team the Telethon Kids Institute, while sitting with the Infectious Disease Dynamics Unit at the Melbourne School of Global and Population Health, and the Quantitative and Applied Ecology Group in the School of Ecosystem and Forest Sciences at the University of Melbourne, and I serve on conservation working groups for Mekong dolphins and Cambodian vultures, and am a member of the IUCN/Species Survival Commission Cetacean Specialist Group.\nYou can contact me at gerard.ryan@telethonkids.org.au.\nMy publications are available to view on this website, and my google scholar profile is here.\nORCID 0000-0003-0183-7630"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -54,5 +47,12 @@
     "title": "Publications",
     "section": "Published pre-prints",
     "text": "Published pre-prints\nShearer, F.M., McCaw, J.M., Ryan, G.E., Hao, T., Tierney, N., Lydeamore, M., Ellis, S., Ward, K., Wood, J., McVernon, J. and Golding, N., (2023). Estimating the impact of test-trace-isolate-quarantine systems on SARS-CoV-2 transmission in Australia. medRxiv 2023.01.10.23284209 Now Shearer et al. 2024 Epidemics 47(2024): 100764\nRyan, G.E., Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2022). Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’ to reopening. medRxiv 12.15.22282869 Now Ryan et al. 2024 Epidemics 47(2024): 100763\nConway, E., Walker, C.R., Baker, C., Lydeamore, M.J., Ryan, G.E., Campbell, T., Miller, J.C., Yeung, M., Kabashima, G., Wood, J., Rebuli, N., McCaw, J.M., McVernon, J., Golding, N., Price, D.J, & Shearer, F.M. (2022) COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting medRxiv 2022.12.04.22282996 Now Conway et al.2024 Proc. Roy. Soc. B. 290(2005): 20231437\nGolding, N., Price, D.J., Ryan, G., McVernon, J., McCaw, J.M. and Shearer, F.M. (2021) Estimating the transmissibility of SARS-CoV-2 during periods of high, low and zero case incidence medRxiv 2021.11.28.21264509 Now Golding et al. 2023 eLife 12:e78089"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gerry Ryan",
+    "section": "",
+    "text": "Red-headed vulture nesting habitat in Cambodian dry tropical forest\n\n\nI’m a researcher using modelling methods to support decision making in public health and conservation science.\n\nMy research is around modelling mosquito distributions to inform malaria control with the Vector Atlas, as well as other problems in infectious diseases.\nI have expertise in:\n\npopulation dynamics of wildlife and infectious diseases\nspecies distribution modelling and dynamics\nrisk assessment\n\nI work at the Infectious Disease Ecology and Modelling team the Telethon Kids Institute\nI sit with with the Infectious Disease Dynamics Unit at the Melbourne School of Global and Population Health, University of Melbourne\n\nStalk me further:\n\nPublications\nGoogle Scholar\nORCID: 0000-0003-0183-7630\ngithub\nEmail me: gerard.ryan@telethonkids.org.au"
   }
 ]

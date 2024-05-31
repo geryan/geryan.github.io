@@ -2,14 +2,22 @@
 title: "Gerry Ryan"
 ---
 
-![Red-headed vulture nesting habitat in Cambodian dry tropical forest](images/rhv_nest-area_mekong_2012_37.jpg) I'm a researcher using modelling methods to support decision making in public health and conservation science.
+![Red-headed vulture nesting habitat in Cambodian dry tropical forest](images/rhv_nest-area_mekong_2012_37.jpg)
 
-Currently my major project is the [Vector Atlas](https://vectoratlas.icipe.org){target="_blank"}. My work encompasses a variety of fields including species distribution and population dynamics, risk assessment, infectious and vector-borne diseases, behaviour, effectiveness evaluation, Bayesian hierarchical modelling, social research, wildlife monitoring, demography, and basic ecology.
+I'm a researcher using modelling methods to support decision making in public health and conservation science.
 
-I work in the [Infectious Disease Ecology and Modelling](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/){target="_blank"} team the Telethon Kids Institute, while sitting with the [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/Infectious-Disease-Dynamics){target="_blank"} at the Melbourne School of Global and Population Health, and the [Quantitative and Applied Ecology Group](http://qaeco.com/){target="_blank"} in the School of Ecosystem and Forest Sciences at the University of Melbourne, and I serve on conservation working groups for Mekong dolphins and Cambodian vultures, and am a member of the IUCN/Species Survival Commission [Cetacean Specialist Group](http://iucn-csg.org/){target="_blank"}.
+- My research is around modelling mosquito distributions to inform malaria control with the [Vector Atlas](https://vectoratlas.icipe.org){target="_blank"}, as well as other problems in infectious diseases.
+- I have expertise in:
+  - population dynamics of wildlife and infectious diseases
+  - species distribution modelling and dynamics
+  - risk assessment
+- I work at the [Infectious Disease Ecology and Modelling](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/){target="_blank"} team the Telethon Kids Institute
+- I sit with with the [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/Infectious-Disease-Dynamics){target="_blank"} at the Melbourne School of Global and Population Health, University of Melbourne
 
-You can contact me at [gerard.ryan\@telethonkids.org.au](mailto:gerard.ryan@telethonkids.org.au){.email}.
+Stalk me further:
 
-My publications are available to view [on this website](publications.qmd), and my google scholar profile is [here](https://scholar.google.com.au/citations?user=pU7MMEoAAAAJ&hl=en){target="_blank"}.
-
-ORCID [0000-0003-0183-7630](https://orcid.org/0000-0003-0183-7630)
+- [Publications](publications.qmd)
+- [Google Scholar](https://scholar.google.com.au/citations?user=pU7MMEoAAAAJ&hl=en){target="_blank"}
+- [ORCID: 0000-0003-0183-7630](https://orcid.org/0000-0003-0183-7630)
+- [github](htttps://github.com/geryan)
+- Email me: [gerard.ryan\@telethonkids.org.au](mailto:gerard.ryan@telethonkids.org.au){.email}
