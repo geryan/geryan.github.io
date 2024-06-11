@@ -44,7 +44,7 @@ Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, 
 
 14. Brownell RL Jr, Reeves RR, Read AJ, Smith BD, Thomas PO, Ralls K, Amano M, Berggren P, Chit AM, Collins T, Currey R, Dolar L, Genov T, Hobbs R, Kreb D, Marsh H, Zhigang M, Perrin WF, Phay S, Rojas-Bracho L, **Ryan GE**, Shelden KEW, Slooten E, Taylor BL, Vidal O, Ding W, Whitty TS, & Wang JY (2019). [Bycatch in gillnet fisheries threatens Critically Endangered small cetaceans and other aquatic megafauna](https://doi.org/10.3354/esr00994){target="_blank"}. **Endangered Species Research** 40: 285--296
 
-13. Thomas, PO, Gulland, FMD, Reeves, RR, Kreb, D, Ding, W, Smith, B, Malik, MI, **Ryan, GE**, & Phay, S (2019). [A review of electrofishing as a potential threat to freshwater cetaceans](https://doi.org/10.3354/esr00962){target="_blank"}. **Endangered Species Research** 39: 207--220
+13. Thomas, PO, Gulland, FMD, Reeves, RR, Kreb, D, Ding, W, Smith, B, Malik, MI, **Ryan, GE**, & Phay, S (2019). [A review of electrofishing as a potential threat to freshwater cetaceans](https://doi.org/10.3354/esr00962){target="_blank"}. **Endangered Species Research** 39: 207--220
 
 12. **Ryan, GE**, Nicholson, E, Eames, JC, Gray, TNE, Loveridge, R, Mahood, SP, Sum P, & McCarthy, MA (2019). [Simultaneous‐count models to estimate abundance from counts of unmarked individuals with imperfect detection](https://doi.org/10.1111/cobi.13261){target="_blank"}. **Conservation Biology** 33(3): 697--708
 
