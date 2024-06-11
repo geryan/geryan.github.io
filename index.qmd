@@ -18,6 +18,6 @@ Stalk me further:
 
 - [Publications](publications.qmd)
 - [Google Scholar](https://scholar.google.com.au/citations?user=pU7MMEoAAAAJ&hl=en){target="_blank"}
-- [ORCID: 0000-0003-0183-7630](https://orcid.org/0000-0003-0183-7630)
-- [github](https://github.com/geryan)
+- [ORCID: 0000-0003-0183-7630](https://orcid.org/0000-0003-0183-7630){target="_blank"}
+- [github](https://github.com/geryan){target="_blank"}
 - Email me: [gerard.ryan\@telethonkids.org.au](mailto:gerard.ryan@telethonkids.org.au){.email}
