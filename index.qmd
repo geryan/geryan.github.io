@@ -6,15 +6,16 @@ title: "Gerry Ryan"
 
 I'm a researcher using modelling methods to support decision making in public health and conservation science.
 
-- My research is around modelling mosquito distributions to inform malaria control with the [Vector Atlas](https://vectoratlas.icipe.org){target="_blank"}, as well as other problems in infectious diseases.
+- My current research is primarily around modelling mosquito distributions to inform malaria control with the [Vector Atlas](https://vectoratlas.icipe.org){target="_blank"}, as well as other problems in infectious diseases.
 - I have expertise in:
   - population dynamics of wildlife and infectious diseases
   - species distribution modelling and dynamics
-  - risk assessment
+  - risk assessment and decision theory
 - I work at the [Infectious Disease Ecology and Modelling](https://www.telethonkids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/){target="_blank"} team the Telethon Kids Institute
 - I sit with with the [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/Infectious-Disease-Dynamics){target="_blank"} at the Melbourne School of Global and Population Health, University of Melbourne
 
-Stalk me further:
+\n
+\n
 
 - [Publications](publications.qmd)
 - [Google Scholar](https://scholar.google.com.au/citations?user=pU7MMEoAAAAJ&hl=en){target="_blank"}
