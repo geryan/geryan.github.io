@@ -32,6 +32,8 @@ Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, 
 
 ## Peer-reviewed articles
 
+20. Shearer, F.M, Edwards, L., Kirk, M., Eales, O., Golding, N., Hassall, J., Liu, B., Lydeamore, M., Miller, C., Moss, R., Price, D.J., **Ryan, G.E**, Sullivan, S., Tobin, R., Ward, K., Kaldor, K., Cheng, A.C., Wood, J., and McCaw, J.M. (2024). [Opportunities to strengthen respiratory virus surveillance systems in Australia: lessons learned from the COVID-19 response](https://doi.org/10.33321/cdi.2024.48.47){target="blank"}. **Communicable Diseases Intelligence** 2024 (48) https://doi.org/10.33321/cdi.2024.48.47
+
 19. Shearer, F.M., McCaw, J.M., **Ryan, G.E.**, Hao, T., Tierney, N., Lydeamore, M., Ellis, S., Ward, K., Wood, J., McVernon, J. and Golding, N., (2024). [Estimating the impact of test-trace-isolate-quarantine systems on SARS-CoV-2 transmission in Australia](https://doi.org/10.1016/j.epidem.2024.100764){target="_blank"}. **Epidemics** 47(2024): 100764
 
 18. **Ryan, G.E.**, Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2024). [Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’ to reopening](https://doi.org/10.1016/j.epidem.2024.100763){target="_blank"}. **Epidemics** 47(2024): 100763
