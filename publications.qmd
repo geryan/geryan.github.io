@@ -92,11 +92,11 @@ Nick Golding, Freya M. Shearer, Robert Moss, Peter Dawson, Dennis Liu, Joshua V.
 
 Casey Visintin, Natalie Briscoe, Michael Kearney, **Gerry Ryan**, Craig Nitschke & Brendan Wintle (2021). [Mapping distributions, threats and opportunities to conserve the greater glider by integrating biophysical and spatially-explicit population models](https://www.nespthreatenedspecies.edu.au/media/zo3iv32y/4-4-8-greater-glider-modelling-report_v2.pdf){target="_blank"}. NESP Threatened Species Recovery Hub Project 4.4.8 report, Brisbane
 
-Beasley, IL, & **Ryan, GE** (2017). Assessing the impacts on Mekong River Irrawaddy dolphins from the Sambor hydropower alternatives. Chapter 9, Volume 2: Sambor Dam Alternatives, Sambor Hydropower Dam Alternatives Assessment: Final Report. Executive Summary. Technical Report.
+Beasley, IL, & **Ryan, GE** (2017). [Assessing the impacts on Mekong River Irrawaddy dolphins from the Sambor hydropower alternatives.](https://data.opendevelopmentmekong.net/en/library_record/sambor-hydropower-dam-alternatives-assessment-final-report){target="_blank"} Chapter 9, Volume 2: Sambor Dam Alternatives, Sambor Hydropower Dam Alternatives Assessment: Final Report. Executive Summary. Technical Report.
 
 **Ryan, GE**, Mustika PL, & Welters, R (2016). [Tourism puts dolphins at risk in Southeast Asia -- here's what to look for on your next holiday](https://theconversation.com/tourism-puts-dolphins-at-risk-in-southeast-asia-heres-what-to-look-for-on-your-next-holiday-70646){target="_blank"}. The Conversation
 
-**Ryan, GE** (2014). The Don Sahong Dam and the Mekong Dolphin. World Wide Fund for Nature, Gland, Switzerland
+**Ryan, GE** (2014). [The Don Sahong Dam and the Mekong Dolphin](https://wwfint.awsassets.panda.org/downloads/donsahong_dolphin_lr_feb2014.pdf){target="_blank"}. World Wide Fund for Nature, Gland, Switzerland
 
 Cowling, V, & **Ryan, G** (2014). Can trans-boundary management save the dolphins in Lao PDR? Catch & Culture: Fisheries Research and Development in the Mekong Region 19:2 4--5
 
@@ -104,9 +104,9 @@ Cowling, V, & **Ryan, G** (2014). Can trans-boundary management save the dolphin
 
 **Ryan, GE** (2013). [Is the extirpation of Irrawaddy dolphins Orcaella brevirostris in Laos imminent: an assessment of status and recommendations for conservation. SC/65a/SM05](https://archive.iwc.int/pages/view.php?ref=4704&k=){target="_blank"}. Presented to the International Whaling Commission Scientific Committee, June 2013
 
-**Ryan, GE** (2012). Last chance for dolphins in Laos: A review of the history, threats, and status. A Technical Report from WWF-Greater Mekong Programme, Hanoi, Vietnam
+**Ryan, GE** (2012). [Last chance for dolphins in Laos: A review of the history, threats, and status](https://wwflac.awsassets.panda.org/downloads/last_chance_for_laos__dolphins.pdf){target="_blank"}. A Technical Report from WWF-Greater Mekong Programme, Hanoi, Vietnam
 
-Rodgers, M, Nash, E, Blate, G, Congdon, G, & **Ryan, GE** (2012). Resilience on the Mekong: A vulnerability and adaptation assessment in North-East Cambodia. WWF-Cambodia Technical Report, WWF-Cambodia, Phnom Penh, Cambodia
+Rodgers, M, Nash, E, Blate, G, Congdon, G, & **Ryan, GE** (2012). [Resilience on the Mekong: A vulnerability and adaptation assessment in North-East Cambodia](https://wwfint.awsassets.panda.org/downloads/climate_change_report__resilience_on_the_mekong.pdf){target="_blank"}. WWF-Cambodia Technical Report, WWF-Cambodia, Phnom Penh, Cambodia
 
 ## Data
 
