@@ -18,6 +18,7 @@ I'm a researcher using modelling methods to support decision making in public he
 \n
 
 - [Publications](publications.qmd)
+- [R Packages](software.qmd)
 - [Google Scholar](https://scholar.google.com.au/citations?user=pU7MMEoAAAAJ&hl=en){target="_blank"}
 - [ORCID: 0000-0003-0183-7630](https://orcid.org/0000-0003-0183-7630){target="_blank"}
 - [github](https://github.com/geryan){target="_blank"}

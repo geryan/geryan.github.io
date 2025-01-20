@@ -1,0 +1,22 @@
+---
+title: "R Packages"
+---
+
+
+## `traveltime`
+
+<https://idem-lab.github.io/traveltime>
+
+`traveltime` includes functions to calculate and create a raster of the travel time over space from a user-supplied collection of points.
+
+## `sdmtools`
+
+<https://idem-lab.github.io/sdmtools>
+
+`sdmtools` is a set of utilities to support species distribution modelling workflows, primarily via manipulation of spatial data in `terra`.
+
+## `idpalette`
+
+<https://idem-lab.github.io/idpalette/>
+
+`idpalette` provides a set of colour ramps and utility functions in [IDEM](https://www.thekids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/){target="_blank"}, [IDDU](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/Infectious-Disease-Dynamics){target="_blank"}, and [ACEFA](https://acefa-labs.github.io){target="_blank"} palettes. 

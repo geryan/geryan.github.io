@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "R Packages",
+    "section": "",
+    "text": "https://idem-lab.github.io/traveltime\ntraveltime includes functions to calculate and create a raster of the travel time over space from a user-supplied collection of points."
+  },
+  {
+    "objectID": "software.html#traveltime",
+    "href": "software.html#traveltime",
+    "title": "R Packages",
+    "section": "",
+    "text": "https://idem-lab.github.io/traveltime\ntraveltime includes functions to calculate and create a raster of the travel time over space from a user-supplied collection of points."
+  },
+  {
+    "objectID": "software.html#sdmtools",
+    "href": "software.html#sdmtools",
+    "title": "R Packages",
+    "section": "sdmtools",
+    "text": "sdmtools\nhttps://idem-lab.github.io/sdmtools\nsdmtools is a set of utilities to support species distribution modelling workflows, primarily via manipulation of spatial data in terra."
+  },
+  {
+    "objectID": "software.html#idpalette",
+    "href": "software.html#idpalette",
+    "title": "R Packages",
+    "section": "idpalette",
+    "text": "idpalette\nhttps://idem-lab.github.io/idpalette/\nidpalette provides a set of colour ramps and utility functions in IDEM, IDDU, and ACEFA palettes."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Gerry Ryan",
+    "section": "",
+    "text": "Red-headed vulture nesting habitat in Cambodian dry tropical forest\n\n\nI’m a researcher using modelling methods to support decision making in public health and conservation science.\n\nMy current research is primarily around modelling mosquito distributions to inform malaria control with the Vector Atlas, as well as other problems in infectious diseases.\nI have expertise in:\n\npopulation dynamics of wildlife and infectious diseases\nspecies distribution modelling and dynamics\nrisk assessment and decision theory\n\nI work in the Infectious Disease Ecology and Modelling Team at The Kids Research Institute Australia (formerly called the Telethon Kids Institute)\nI sit with with the Infectious Disease Dynamics Unit at the Melbourne School of Global and Population Health, University of Melbourne\n\n\nPublications\nR Packages\nGoogle Scholar\nORCID: 0000-0003-0183-7630\ngithub\nEmail me: gerry.ryan@thekids.org.au"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -47,12 +82,5 @@
     "title": "Publications",
     "section": "Published pre-prints",
     "text": "Published pre-prints\nThis is really for my own record; you don’t want to read or cite them — see the published versions above.\nRyan, G.E., Nicholson, E., Baker, C.M., and McCarthy, M. A. (2024). The costs and benefits of publicising species discoveries. EcoEvoRxiv 10.32942/X2Q02W Now Ryan et al. 2024 Conservation Letters: 17(5): e13044\nShearer, F.M., McCaw, J.M., Ryan, G.E., Hao, T., Tierney, N., Lydeamore, M., Ellis, S., Ward, K., Wood, J., McVernon, J. and Golding, N., (2023). Estimating the impact of test-trace-isolate-quarantine systems on SARS-CoV-2 transmission in Australia. medRxiv 2023.01.10.23284209 Now Shearer et al. 2024 Epidemics 47(2024): 100764\nRyan, G.E., Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2022). Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’ to reopening. medRxiv 12.15.22282869 Now Ryan et al. 2024 Epidemics 47(2024): 100763\nConway, E., Walker, C.R., Baker, C., Lydeamore, M.J., Ryan, G.E., Campbell, T., Miller, J.C., Yeung, M., Kabashima, G., Wood, J., Rebuli, N., McCaw, J.M., McVernon, J., Golding, N., Price, D.J, & Shearer, F.M. (2022) COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting medRxiv 2022.12.04.22282996 Now Conway et al.2024 Proc. Roy. Soc. B. 290(2005): 20231437\nGolding, N., Price, D.J., Ryan, G., McVernon, J., McCaw, J.M. and Shearer, F.M. (2021) Estimating the transmissibility of SARS-CoV-2 during periods of high, low and zero case incidence medRxiv 2021.11.28.21264509 Now Golding et al. 2023 eLife 12:e78089"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Gerry Ryan",
-    "section": "",
-    "text": "Red-headed vulture nesting habitat in Cambodian dry tropical forest\n\n\nI’m a researcher using modelling methods to support decision making in public health and conservation science.\n\nMy current research is primarily around modelling mosquito distributions to inform malaria control with the Vector Atlas, as well as other problems in infectious diseases.\nI have expertise in:\n\npopulation dynamics of wildlife and infectious diseases\nspecies distribution modelling and dynamics\nrisk assessment and decision theory\n\nI work in the Infectious Disease Ecology and Modelling Team at The Kids Research Institute Australia (formerly called the Telethon Kids Institute)\nI sit with with the Infectious Disease Dynamics Unit at the Melbourne School of Global and Population Health, University of Melbourne\n\n\nPublications\nGoogle Scholar\nORCID: 0000-0003-0183-7630\ngithub\nEmail me: gerry.ryan@thekids.org.au"
   }
 ]

@@ -24,8 +24,7 @@ title: "Publications"
 
 Hao, T., **Ryan, G.E.**, Lydeamore, M., Cromer, D., Wood, J, McVernon, J, McCaw, J, Shearer, F.M., and Golding N. (2024) [Predicting immune protection against outcomes of infectious disease from population-level effectiveness data with application to COVID-19](https://doi.org/10.1101/2024.10.17.24314397){target="_blank"}. **medRxiv** 2024.10.17.24314397
 
-
-Eales, O., Teo, M., Price, D.J., Hao, T., **Ryan, G.E.**, Senior, K.L., Carlson, S., Dalton, C., Dawson, P., Golding, N., McCaw, J.M., and Shearer, F.M. (2024) [Temporal trends in test-seeking behaviour during the COVID-19 pandemic](https://doi.org/10.1101/2024.06.06.24308566){target="_blank"}.  **medRxiv** 2024.06.06.24308566
+Eales, O., Teo, M., Price, D.J., Hao, T., **Ryan, G.E.**, Senior, K.L., Carlson, S., Dalton, C., Dawson, P., Golding, N., McCaw, J.M., and Shearer, F.M. (2024) [Temporal trends in test-seeking behaviour during the COVID-19 pandemic](https://doi.org/10.1101/2024.06.06.24308566){target="_blank"}. **medRxiv** 2024.06.06.24308566
 
 Conway, E., Walker, C., Lydeamore, M., Golding, N., **Ryan, G.**, Mavec, D., Oates J., Kabashima, G., Price, D.J., Shearer, F, Cromer, D., Davenport, M.P., McCaw, J., Eriksson, E.M., Hodgkin, P.D., Wu, L., Le, T.P, Baker, C.M., Mueller, I., and McVernon, J. (2024) [Optimal timing of booster doses in a highly vaccinated population with minimal natural exposure to COVID-19](https://doi.org/10.1101/2024.05.14.24307386){target="_blank"}. **medRxiv** 2024.05.14.24307386
 
@@ -124,6 +123,7 @@ Rodgers, M, Nash, E, Blate, G, Congdon, G, & **Ryan, GE** (2012). [Resilience on
 **Ryan, G.** (2018). geryan/simultaneous_count_models: Archiving release of SCM code (Version 1). Zenodo. [https://doi.org/10.5281/zenodo.1473876](https://doi.org/10.5281/zenodo.1473876){target="_blank"}
 
 ## Published pre-prints
+
 *This is really for my own record; you don't want to read or cite them — see the published versions above.*
 
 **Ryan, G.E.**, Nicholson, E., Baker, C.M., and McCarthy, M. A. (2024). [The costs and benefits of publicising species discoveries](https://doi.org/10.32942/X2Q02W){target="_blank"}. **EcoEvoRxiv** 10.32942/X2Q02W *Now Ryan et al. 2024 Conservation Letters: 17(5): e13044*
