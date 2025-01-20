@@ -11,7 +11,7 @@ I'm a researcher using modelling methods to support decision making in public he
   - population dynamics of wildlife and infectious diseases
   - species distribution modelling and dynamics
   - risk assessment and decision theory
-- I work in the [Infectious Disease Ecology and Modelling Team](https://www.thekids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/){target="_blank"} at The Kids Research Institute Australia
+- I work in the [Infectious Disease Ecology and Modelling Team](https://www.thekids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/){target="_blank"} at The Kids Research Institute Australia (*formerly called the Telethon Kids Institute*)
 - I sit with with the [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/Infectious-Disease-Dynamics){target="_blank"} at the Melbourne School of Global and Population Health, University of Melbourne
 
 \n
