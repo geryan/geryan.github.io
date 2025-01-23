@@ -70,7 +70,7 @@ Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, 
 
 5. Singh, R. Phan C, Prum S, Pin C, **Ryan, G**, & Wright, M (2013). [The Serengeti of Asia: current status of the Eastern Plains Landscape protected area complex, Cambodia](https://doi.org/10.2305/IUCN.CH.2013.PARKS-19-2.RS.en){target="_blank"}. **PARKS** 19(2): 23-32
 
-4. **Ryan, GE** (2012). [Brahminy kites Haliastur indus fishing with Irrawaddy dolphins Orcaella brevirostris in the Mekong River](https://www.researchgate.net/publication/289744193_Brahminy_Kites_Haliastur_indus_fishing_with_Irrawaddy_dolphins_Orcaella_brevirostris_in_the_Mekong_River){target="_blank"}. **Forktail** 28: 161-162
+4. **Ryan, GE** (2012). [Brahminy kites *Haliastur indus* fishing with Irrawaddy dolphins *Orcaella brevirostris* in the Mekong River](https://www.researchgate.net/publication/289744193_Brahminy_Kites_Haliastur_indus_fishing_with_Irrawaddy_dolphins_Orcaella_brevirostris_in_the_Mekong_River){target="_blank"}. **Forktail** 28: 161-162
 
 3. Sok K, Claassen, AH, Wright, HL, & **Ryan, GE** (2012). [Waterbird nest protection on the Mekong River: a preliminary evaluation, with notes on the recovery and release of white-shouldered ibis Pseudibis davisoni chicks](https://www.fauna-flora.org/wp-content/uploads/2023/05/FFI_201207_Cambodian-Journal-of-Natural-History.pdf){target="_blank"}. **Cambodian Journal of Natural History** 2012(1): 29-41
 
@@ -80,9 +80,7 @@ Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, 
 
 ## Grey Literature
 
-Select grey literature.
-
-[Series of weekly COVID-19 epidemic situational assessment reports submitted to the Australian Government Department of Health Office of Health Protection from April 2020 to December 2023.](https://doi.org/10.26188/24845328.v1){target="_blank"}
+Shearer, Freya; Adeshina, Adekunle; Dawson, Peter; Golding, Nick; Hao, Tianxiao; Hyndman, Rob J; Moss, Rob; O'Jara-Wild, Mitchell; Price, David; **Ryan, Gerard**; Senior, Katharine; Tobin, Ruarai; Wood, James; and McCaw, James (2023). [Series of weekly COVID-19 epidemic situational assessment reports submitted to the Australian Government Department of Health Office of Health Protection from April 2020 to December 2023.](https://doi.org/10.26188/24845328){target="_blank"}. https://doi.org/10.26188/24845328
 
 McCaw, JM, R Moss, DJ Price, FM Shearer, R Tobin, N Golding, T Hao, **G Ryan**, A Adekunle, P Dawson, M Teo, D Morris, JV Ross, T South, R Hyndman, M Lydeamore, M O'Hara-Wild, and J Wood (2022). [Situational assessment of COVID-19 in Australia Technical Report 22 May 2022 (released 12 August 2022)](https://mspgh.unimelb.edu.au/__data/assets/pdf_file/0003/4256103/2022-05-22-Technical-report-public-release.pdf){target="_blank"}
 
