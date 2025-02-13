@@ -22,13 +22,13 @@ title: "Publications"
 
 ## Pre-prints
 
-**Ryan, G.E.**, Tierney, N., Golding, N., and Weiss, D.J (2025). [traveltime: an R package to calculate travel time across a landscape from user-specified locations](https://doi.org/10.31223/X56M74){target="_blank"} **EarthArXiv** 10.31223/X56M74
+**Ryan, G.E.**, Tierney, N., Golding, N., and Weiss, D.J (2025). [traveltime: an R package to calculate travel time across a landscape from user-specified locations](https://doi.org/10.31223/X56M74){target="_blank"}. **EarthArXiv** 10.31223/X56M74
 
-Hao, T., **Ryan, G.E.**, Lydeamore, M., Cromer, D., Wood, J, McVernon, J, McCaw, J, Shearer, F.M., and Golding N. (2024) [Predicting immune protection against outcomes of infectious disease from population-level effectiveness data with application to COVID-19](https://doi.org/10.1101/2024.10.17.24314397){target="_blank"}. **medRxiv** 2024.10.17.24314397
+Hao, T., **Ryan, G.E.**, Lydeamore, M., Cromer, D., Wood, J, McVernon, J, McCaw, J, Shearer, F.M., and Golding N. (2024). [Predicting immune protection against outcomes of infectious disease from population-level effectiveness data with application to COVID-19](https://doi.org/10.1101/2024.10.17.24314397){target="_blank"}. **medRxiv** 2024.10.17.24314397
 
-Eales, O., Teo, M., Price, D.J., Hao, T., **Ryan, G.E.**, Senior, K.L., Carlson, S., Dalton, C., Dawson, P., Golding, N., McCaw, J.M., and Shearer, F.M. (2024) [Temporal trends in test-seeking behaviour during the COVID-19 pandemic](https://doi.org/10.1101/2024.06.06.24308566){target="_blank"}. **medRxiv** 2024.06.06.24308566
+Eales, O., Teo, M., Price, D.J., Hao, T., **Ryan, G.E.**, Senior, K.L., Carlson, S., Dalton, C., Dawson, P., Golding, N., McCaw, J.M., and Shearer, F.M. (2024). [Temporal trends in test-seeking behaviour during the COVID-19 pandemic](https://doi.org/10.1101/2024.06.06.24308566){target="_blank"}. **medRxiv** 2024.06.06.24308566
 
-Conway, E., Walker, C., Lydeamore, M., Golding, N., **Ryan, G.**, Mavec, D., Oates J., Kabashima, G., Price, D.J., Shearer, F, Cromer, D., Davenport, M.P., McCaw, J., Eriksson, E.M., Hodgkin, P.D., Wu, L., Le, T.P, Baker, C.M., Mueller, I., and McVernon, J. (2024) [Optimal timing of booster doses in a highly vaccinated population with minimal natural exposure to COVID-19](https://doi.org/10.1101/2024.05.14.24307386){target="_blank"}. **medRxiv** 2024.05.14.24307386
+Conway, E., Walker, C., Lydeamore, M., Golding, N., **Ryan, G.**, Mavec, D., Oates J., Kabashima, G., Price, D.J., Shearer, F, Cromer, D., Davenport, M.P., McCaw, J., Eriksson, E.M., Hodgkin, P.D., Wu, L., Le, T.P, Baker, C.M., Mueller, I., and McVernon, J. (2024). [Optimal timing of booster doses in a highly vaccinated population with minimal natural exposure to COVID-19](https://doi.org/10.1101/2024.05.14.24307386){target="_blank"}. **medRxiv** 2024.05.14.24307386
 
 Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, P.T., Cromer, D., Lydeamore, M.J., McDonough, Y., Mueller, I., **Ryan, G.**, Walker, C., Wang, Y., Carvalho, N., and McVernon, J. (2023). [Cost-effective boosting allocations in the post-Omicron era of COVID-19 management](https://doi.org/10.1101/2023.11.14.23298536){target="_blank"}. **medRxiv** 2023.11.14.23298536.
 
@@ -86,7 +86,7 @@ Shearer, Freya; Adeshina, Adekunle; Dawson, Peter; Golding, Nick; Hao, Tianxiao;
 
 McCaw, JM, R Moss, DJ Price, FM Shearer, R Tobin, N Golding, T Hao, **G Ryan**, A Adekunle, P Dawson, M Teo, D Morris, JV Ross, T South, R Hyndman, M Lydeamore, M O'Hara-Wild, and J Wood (2022). [Situational assessment of COVID-19 in Australia Technical Report 22 May 2022 (released 12 August 2022)](https://mspgh.unimelb.edu.au/__data/assets/pdf_file/0003/4256103/2022-05-22-Technical-report-public-release.pdf){target="_blank"}.
 
-[Doherty Modelling – Final Report to National Cabinet](https://www.doherty.edu.au/uploads/content_doc/%20Synthesis_DohertyModelling_FinalReport__NatCab05Nov.pdf){target="_blank"}. 5th November 2021. (2021)
+[Doherty Modelling – Final Report to National Cabinet](https://www.doherty.edu.au/uploads/content_doc/%20Synthesis_DohertyModelling_FinalReport__NatCab05Nov.pdf){target="_blank"}. 5th November 2021. (2021).
 
 Nick Golding, Freya M. Shearer, Robert Moss, Peter Dawson, Dennis Liu, Joshua V. Ross, Rob Hyndman, Pablo Montero-Manso, **Gerry Ryan**, Tobin South, Jodie McVernon, David J. Price, and James M. McCaw, (2021). [Situational assessment of COVID-19 in Australia Technical Report 15 March 2021 (released 28 May 2021)](https://mspgh.unimelb.edu.au/__data/assets/pdf_file/0004/4230643/2021-03-15-Technical-report-public-release.pdf){target="_blank"}.
 
@@ -94,7 +94,7 @@ Nick Golding, Freya M. Shearer, Robert Moss, Peter Dawson, Dennis Liu, Joshua V.
 
 Casey Visintin, Natalie Briscoe, Michael Kearney, **Gerry Ryan**, Craig Nitschke & Brendan Wintle (2021). [Mapping distributions, threats and opportunities to conserve the greater glider by integrating biophysical and spatially-explicit population models](https://www.nespthreatenedspecies.edu.au/media/zo3iv32y/4-4-8-greater-glider-modelling-report_v2.pdf){target="_blank"}. NESP Threatened Species Recovery Hub Project 4.4.8 report, Brisbane
 
-Beasley, IL, & **Ryan, GE** (2017). [Assessing the impacts on Mekong River Irrawaddy dolphins from the Sambor hydropower alternatives.](https://data.opendevelopmentmekong.net/en/library_record/sambor-hydropower-dam-alternatives-assessment-final-report){target="_blank"} Chapter 9, Volume 2: Sambor Dam Alternatives, Sambor Hydropower Dam Alternatives Assessment: Final Report. Executive Summary. Technical Report.
+Beasley, IL, & **Ryan, GE** (2017). [Assessing the impacts on Mekong River Irrawaddy dolphins from the Sambor hydropower alternatives](https://data.opendevelopmentmekong.net/en/library_record/sambor-hydropower-dam-alternatives-assessment-final-report){target="_blank"}. Chapter 9, Volume 2: Sambor Dam Alternatives, Sambor Hydropower Dam Alternatives Assessment: Final Report. Executive Summary. Technical Report.
 
 **Ryan, GE**, Mustika PL, & Welters, R (2016). [Tourism puts dolphins at risk in Southeast Asia -- here's what to look for on your next holiday](https://theconversation.com/tourism-puts-dolphins-at-risk-in-southeast-asia-heres-what-to-look-for-on-your-next-holiday-70646){target="_blank"}. The Conversation
 
@@ -132,6 +132,6 @@ Shearer, F.M., McCaw, J.M., **Ryan, G.E.**, Hao, T., Tierney, N., Lydeamore, M.,
 
 **Ryan, G.E.**, Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2022). [Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’ to reopening](https://doi.org/10.1101/2022.12.15.22282869){target="_blank"}. **medRxiv** 12.15.22282869 *Now Ryan et al. 2024 Epidemics 47(2024): 100763*
 
-Conway, E., Walker, C.R., Baker, C., Lydeamore, M.J., **Ryan, G.E.**, Campbell, T., Miller, J.C., Yeung, M., Kabashima, G., Wood, J., Rebuli, N., McCaw, J.M., McVernon, J., Golding, N., Price, D.J, & Shearer, F.M. (2022) [COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting](https://doi.org/10.1101/2022.12.04.22282996){target="_blank"} **medRxiv** 2022.12.04.22282996 *Now Conway et al.2024 Proc. Roy. Soc. B. 290(2005): 20231437*
+Conway, E., Walker, C.R., Baker, C., Lydeamore, M.J., **Ryan, G.E.**, Campbell, T., Miller, J.C., Yeung, M., Kabashima, G., Wood, J., Rebuli, N., McCaw, J.M., McVernon, J., Golding, N., Price, D.J, & Shearer, F.M. (2022). [COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting](https://doi.org/10.1101/2022.12.04.22282996){target="_blank"}. **medRxiv** 2022.12.04.22282996 *Now Conway et al.2024 Proc. Roy. Soc. B. 290(2005): 20231437*
 
-Golding, N., Price, D.J., **Ryan, G.**, McVernon, J., McCaw, J.M. and Shearer, F.M. (2021) [Estimating the transmissibility of SARS-CoV-2 during periods of high, low and zero case incidence](https://doi.org/10.1101/2021.11.28.21264509){target="_blank"} **medRxiv** 2021.11.28.21264509 *Now Golding et al. 2023 eLife 12:e78089*
+Golding, N., Price, D.J., **Ryan, G.**, McVernon, J., McCaw, J.M. and Shearer, F.M. (2021). [Estimating the transmissibility of SARS-CoV-2 during periods of high, low and zero case incidence](https://doi.org/10.1101/2021.11.28.21264509){target="_blank"}. **medRxiv** 2021.11.28.21264509 *Now Golding et al. 2023 eLife 12:e78089*
