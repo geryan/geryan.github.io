@@ -24,7 +24,6 @@ title: "Publications"
 
 **Ryan, G.E.**, Tierney, N., Golding, N., and Weiss, D.J (2025). [traveltime: an R package to calculate travel time across a landscape from user-specified locations](https://doi.org/10.31223/X56M74){target="_blank"}. **EarthArXiv** 10.31223/X56M74
 
-Hao, T., **Ryan, G.E.**, Lydeamore, M., Cromer, D., Wood, J, McVernon, J, McCaw, J, Shearer, F.M., and Golding N. (2024). [Predicting immune protection against outcomes of infectious disease from population-level effectiveness data with application to COVID-19](https://doi.org/10.1101/2024.10.17.24314397){target="_blank"}. **medRxiv** 2024.10.17.24314397
 
 Eales, O., Teo, M., Price, D.J., Hao, T., **Ryan, G.E.**, Senior, K.L., Carlson, S., Dalton, C., Dawson, P., Golding, N., McCaw, J.M., and Shearer, F.M. (2024). [Temporal trends in test-seeking behaviour during the COVID-19 pandemic](https://doi.org/10.1101/2024.06.06.24308566){target="_blank"}. **medRxiv** 2024.06.06.24308566
 
@@ -33,6 +32,8 @@ Conway, E., Walker, C., Lydeamore, M., Golding, N., **Ryan, G.**, Mavec, D., Oat
 Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, P.T., Cromer, D., Lydeamore, M.J., McDonough, Y., Mueller, I., **Ryan, G.**, Walker, C., Wang, Y., Carvalho, N., and McVernon, J. (2023). [Cost-effective boosting allocations in the post-Omicron era of COVID-19 management](https://doi.org/10.1101/2023.11.14.23298536){target="_blank"}. **medRxiv** 2023.11.14.23298536.
 
 ## Peer-reviewed articles
+
+22. Hao, T., **Ryan, G.E.**, Lydeamore, M., Cromer, D., Wood, J, McVernon, J, McCaw, J, Shearer, F.M., and Golding N. (2025). [Predicting immune protection against outcomes of infectious disease from population-level effectiveness data with application to COVID-19](https://doi.org/10.1016/j.vaccine.2025.126987){target="_blank"}. **Vaccine** 55: 126987
 
 21. **Ryan, G.E.**, Nicholson, E., Baker, C.M., and McCarthy, M. A. (2024). [The costs and benefits of publicising species discoveries](https://doi.org/10.1111/conl.13044){target="_blank"}. **Conservation Letters** 17(5): e13044
 
@@ -125,6 +126,8 @@ Rodgers, M, Nash, E, Blate, G, Congdon, G, & **Ryan, GE** (2012). [Resilience on
 ## Published pre-prints
 
 *This is really for my own record; you don't want to read or cite them — see the published versions above.*
+
+Hao, T., **Ryan, G.E.**, Lydeamore, M., Cromer, D., Wood, J, McVernon, J, McCaw, J, Shearer, F.M., and Golding N. (2024). [Predicting immune protection against outcomes of infectious disease from population-level effectiveness data with application to COVID-19](https://doi.org/10.1101/2024.10.17.24314397){target="_blank"}. **medRxiv** 2024.10.17.24314397 *Now Hao et al. 2025 Vaccine 55: 126987*
 
 **Ryan, G.E.**, Nicholson, E., Baker, C.M., and McCarthy, M. A. (2024). [The costs and benefits of publicising species discoveries](https://doi.org/10.32942/X2Q02W){target="_blank"}. **EcoEvoRxiv** 10.32942/X2Q02W *Now Ryan et al. 2024 Conservation Letters: 17(5): e13044*
 
