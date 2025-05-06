@@ -113,15 +113,17 @@ Rodgers, M, Nash, E, Blate, G, Congdon, G, & **Ryan, GE** (2012). [Resilience on
 
 ## Data
 
-**Ryan, G**, Nicholson, E, & McCarthy, M (2024). Data and questionnaire for "The costs and benefits of publicising species discoveries". The University of Melbourne. Dataset. Figshare DOI [10.26188/11357126](https://doi.org/10.26188/11357126){target="_blank"}
+**Ryan, G**, Nicholson, E, & McCarthy, M (2024). Data and questionnaire for "The costs and benefits of publicising species discoveries". The University of Melbourne. Dataset. Figshare [DOI: 10.26188/11357126](https://doi.org/10.26188/11357126){target="_blank"}
 
 ## Archived code
 
-**Ryan, G**. (2024). geryan/publicising_species_discoveries. Zenodo. [https://zenodo.org/doi/10.5281/zenodo.10622196](https://zenodo.org/doi/10.5281/zenodo.10622196){target="_blank"}
+**Ryan, G**, & Tierney N.. (2025). idem-lab/traveltime: zenodo release 1 (Version v4). Zenodo. [DOI: 10.5281/zenodo.15347016](https://doi.org/10.5281/zenodo.15347016){target="_blank"}
 
-**Ryan GE**, & Golding, N. (2022). geryan/nat_plan_figs: Citable version for national plan paper (Version v1). Zenodo. [https://doi.org/10.5281/zenodo.7117840](https://doi.org/10.5281/zenodo.7117840){target="_blank"}
+**Ryan, G**. (2024). geryan/publicising_species_discoveries. Zenodo. [DOI: 10.5281/zenodo.10622196](https://zenodo.org/doi/10.5281/zenodo.10622196){target="_blank"}
 
-**Ryan, G.** (2018). geryan/simultaneous_count_models: Archiving release of SCM code (Version 1). Zenodo. [https://doi.org/10.5281/zenodo.1473876](https://doi.org/10.5281/zenodo.1473876){target="_blank"}
+**Ryan GE**, & Golding, N. (2022). geryan/nat_plan_figs: Citable version for national plan paper (Version v1). Zenodo. [DOI: 10.5281/zenodo.7117840](https://doi.org/10.5281/zenodo.7117840){target="_blank"}
+
+**Ryan, G.** (2018). geryan/simultaneous_count_models: Archiving release of SCM code (Version 1). Zenodo. [DOI: 10.5281/zenodo.1473876](https://doi.org/10.5281/zenodo.1473876){target="_blank"}
 
 ## Published pre-prints
 
