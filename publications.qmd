@@ -22,13 +22,13 @@ title: "Publications"
 
 ## Pre-prints
 
-Eales, O., Teo, M., Price, D.J., Hao, T., **Ryan, G.E.**, Senior, K.L., Carlson, S., Dalton, C., Dawson, P., Golding, N., McCaw, J.M., and Shearer, F.M. (2024). [Temporal trends in test-seeking behaviour during the COVID-19 pandemic](https://doi.org/10.1101/2024.06.06.24308566){target="_blank"}. **medRxiv** 2024.06.06.24308566
-
 Conway, E., Walker, C., Lydeamore, M., Golding, N., **Ryan, G.**, Mavec, D., Oates J., Kabashima, G., Price, D.J., Shearer, F, Cromer, D., Davenport, M.P., McCaw, J., Eriksson, E.M., Hodgkin, P.D., Wu, L., Le, T.P, Baker, C.M., Mueller, I., and McVernon, J. (2024). [Optimal timing of booster doses in a highly vaccinated population with minimal natural exposure to COVID-19](https://doi.org/10.1101/2024.05.14.24307386){target="_blank"}. **medRxiv** 2024.05.14.24307386
 
 Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, P.T., Cromer, D., Lydeamore, M.J., McDonough, Y., Mueller, I., **Ryan, G.**, Walker, C., Wang, Y., Carvalho, N., and McVernon, J. (2023). [Cost-effective boosting allocations in the post-Omicron era of COVID-19 management](https://doi.org/10.1101/2023.11.14.23298536){target="_blank"}. **medRxiv** 2023.11.14.23298536.
 
 ## Peer-reviewed articles
+
+24.  Eales, O., Teo, M., Price, D.J., Hao, T., **Ryan, G.E.**, Senior, K.L., Carlson, S., Dalton, C., Dawson, P., Golding, N., McCaw, J.M., and Shearer, F.M. (2024). [Temporal trends in test-seeking behaviour during the COVID-19 pandemic](https://doi.org/10.1080/29937574.2025.2521858){target="_blank"}. **Mathematics in Medical and Life Sciences** DOI 10.1080/29937574.2025.2521858
 
 23. **Ryan, G.E.**, Tierney, N., Golding, N., and Weiss, D.J (2025). [traveltime: an R package to calculate travel time across a landscape from user-specified locations](https://doi.org/10.12688/gatesopenres.16356.1){target="_blank"}. **Gates Open Research** 9:50
 
@@ -127,6 +127,8 @@ Rodgers, M, Nash, E, Blate, G, Congdon, G, & **Ryan, GE** (2012). [Resilience on
 ## Published pre-prints
 
 *This is really for my own record; you don't want to read or cite them — see the published versions above.*
+
+Eales, O., Teo, M., Price, D.J., Hao, T., **Ryan, G.E.**, Senior, K.L., Carlson, S., Dalton, C., Dawson, P., Golding, N., McCaw, J.M., and Shearer, F.M. (2024). [Temporal trends in test-seeking behaviour during the COVID-19 pandemic](https://doi.org/10.1101/2024.06.06.24308566){target="_blank"}. **medRxiv** 2024.06.06.24308566 *Now Eales et al. 2025 Mathematics in Medical and Life Sciences*
 
 **Ryan, G.E.**, Tierney, N., Golding, N., and Weiss, D.J (2025). [traveltime: an R package to calculate travel time across a landscape from user-specified locations](https://doi.org/10.12688/verixiv.989.1){target="_blank"}. **VeriXiv** 2:99 DOI 10.12688/verixiv.989.1 *Now Ryan et al. 2025 Gates Open Research 9: 50*
 
