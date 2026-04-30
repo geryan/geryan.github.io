@@ -22,11 +22,12 @@ title: "Publications"
 
 ## Pre-prints
 
-Moss, R, Tobin, R.J., O'Hara-Wild, M., Adekunle, A.I., Liu, D., South, T., Morris, D.J., **Ryan, G.E.**, Hao, T., Babu, A., Senior, K.L., Wood, J.G., Golding, N., Ross, J.V, Hyndman, R.J., Price, D.J., McCaw, J.M., & Shearer, F.M. (2025) [Ensemble forecasts of COVID-19 activity to support Australia's pandemic response: 2020–22](https://doi.org/10.1101/2025.09.10.25335544) **medRXiv** 2025.09.10.25335544
-
 Conway, E., Walker, C., Lydeamore, M., Golding, N., **Ryan, G.**, Mavec, D., Oates J., Kabashima, G., Price, D.J., Shearer, F, Cromer, D., Davenport, M.P., McCaw, J., Eriksson, E.M., Hodgkin, P.D., Wu, L., Le, T.P, Baker, C.M., Mueller, I., and McVernon, J. (2024). [Optimal timing of booster doses in a highly vaccinated population with minimal natural exposure to COVID-19](https://doi.org/10.1101/2024.05.14.24307386){target="_blank"}. **medRXiv** 2024.05.14.24307386
 
 ## Peer-reviewed articles
+
+
+26.  Moss, R, Tobin, R.J., O'Hara-Wild, M., Adekunle, A.I., Liu, D., South, T., Morris, D.J., **Ryan, G.E.**, Hao, T., Babu, A., Senior, K.L., Wood, J.G., Golding, N., Ross, J.V, Dawson, P., Hyndman, R.J., Price, D.J., McCaw, J.M., & Shearer, F.M. (2025) [Ensemble forecasts of COVID-19 activity to support Australia's pandemic response: 2020–22](https://doi.org/10.1371/journal.pcbi.1014199) **PLOS Computational Biology**  22(4): e1014199, DOI 10.1371/journal.pcbi.1014199
 
 25.  Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, P.T., Cromer, D., Lydeamore, M.J., McDonough, Y., Mueller, I., **Ryan, G.**, Walker, C., Wang, Y., Carvalho, N., and McVernon, J. (2025). [Health impact and cost-effectiveness of COVID-19 booster vaccination strategies in the early post-Omicron era: a dynamic modelling study](https://doi.org/10.1136/bmjgh-2024-016096){target="_blank"}. **BMJ Global Health** 10(9): e016096, DOI 0.1136/
 bmjgh-2024-016096.
@@ -65,7 +66,7 @@ bmjgh-2024-016096.
 
 10. Loveridge, R, **Ryan, GE**, Sum P, Grey-Read, O, Mahood, SP, Mould, A, Harrison, S, Crouthers, R, Ko, S., Clements, T, Eames, JC, & Pruvot, M. (2018). [Poisoning causing the decline in South-East Asia's largest vulture population](https://doi.org/10.1017/S0959270918000126){target="_blank"}. **Bird Conservation International** 29(1): 41--54
 
-9. Krutzen, M, Beasley I, Ackermann, CY, Lieckfeldt, D, Ludwig, A, **Ryan, GE**, Bejder, L, Parra, GJ, Wolfensberger, R, & Spencer, PBS (2018). [Demographic collapse and low genetic diversity of the Irrawaddy dolphin population inhabiting the Mekong River](https://doi.org/10.1371/journal.pone.0189200){target="_blank"}. **PLoS ONE** 13(1): e0189200
+9. Krutzen, M, Beasley I, Ackermann, CY, Lieckfeldt, D, Ludwig, A, **Ryan, GE**, Bejder, L, Parra, GJ, Wolfensberger, R, & Spencer, PBS (2018). [Demographic collapse and low genetic diversity of the Irrawaddy dolphin population inhabiting the Mekong River](https://doi.org/10.1371/journal.pone.0189200){target="_blank"}. **PLOS ONE** 13(1): e0189200
 
 8. Brownell, RL, Reeves, RR, Thomas, PO, Smith, BD, & **Ryan, GE** (2017). [Dams threaten rare Mekong dolphins](https://doi.org/10.1126/science.aam6406){target="_blank"}. **Science** 355(6327): 805
 
@@ -130,6 +131,8 @@ Rodgers, M, Nash, E, Blate, G, Congdon, G, & **Ryan, GE** (2012). [Resilience on
 ## Published pre-prints
 
 *This is for my own record; you don't want to read or cite them — see the published versions above.*
+
+Moss, R, Tobin, R.J., O'Hara-Wild, M., Adekunle, A.I., Liu, D., South, T., Morris, D.J., **Ryan, G.E.**, Hao, T., Babu, A., Senior, K.L., Wood, J.G., Golding, N., Ross, J.V, Dawson, P., Hyndman, R.J., Price, D.J., McCaw, J.M., & Shearer, F.M. (2025) [Ensemble forecasts of COVID-19 activity to support Australia's pandemic response: 2020–22](https://doi.org/10.1101/2025.09.10.25335544) **medRXiv** 2025.09.10.25335544 *Now Moss et al. 2026 PLOS Computational Biology*
 
 Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, P.T., Cromer, D., Lydeamore, M.J., McDonough, Y., Mueller, I., **Ryan, G.**, Walker, C., Wang, Y., Carvalho, N., and McVernon, J. (2023). [Cost-effective boosting allocations in the post-Omicron era of COVID-19 management](https://doi.org/10.1101/2023.11.14.23298536){target="_blank"}. **medRXiv** 2023.11.14.23298536. *Now Le et al. 2025 BMJ Global Health*
 
