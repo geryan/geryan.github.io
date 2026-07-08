@@ -22,7 +22,7 @@ title: "Publications"
 
 ## Pre-prints
 
-Creswell, R., Golding, N., **Ryan, G.E.**, Eales, O., Price, D.J., McCaw, J.M., & Shearer, F.M. (2026). [Designing infection prevalence and seroprevalence surveys for learning infection dynamics](https://doi.org/10.64898/2026.07.01.26356511){target="_blank"}. **medRxiv** 2026.07.01.26356511
+Creswell, R., Golding, N., **Ryan, G.E.**, Eales, O., Price, D.J., McCaw, J.M., & Shearer, F.M. (2026). [Designing infection prevalence and seroprevalence surveys for learning infection dynamics](https://doi.org/10.64898/2026.07.01.26356511){target="_blank"}. **medRXiv** 2026.07.01.26356511
 
 Conway, E., Walker, C., Lydeamore, M., Golding, N., **Ryan, G.**, Mavec, D., Oates J., Kabashima, G., Price, D.J., Shearer, F, Cromer, D., Davenport, M.P., McCaw, J., Eriksson, E.M., Hodgkin, P.D., Wu, L., Le, T.P, Baker, C.M., Mueller, I., and McVernon, J. (2024). [Optimal timing of booster doses in a highly vaccinated population with minimal natural exposure to COVID-19](https://doi.org/10.1101/2024.05.14.24307386){target="_blank"}. **medRXiv** 2024.05.14.24307386
 
