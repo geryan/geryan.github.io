@@ -2,6 +2,7 @@
 title: "R Packages"
 ---
 
+![Red-headed vulture nesting habitat in Cambodian dry tropical forest](images/rhv_nest-area_mekong_2012_37.jpg)
 
 ## `traveltime`
 
@@ -19,4 +20,10 @@ title: "R Packages"
 
 <https://idem-lab.github.io/idpalette/>
 
-`idpalette` provides a set of colour ramps and utility functions in [IDEM](https://www.thekids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/){target="_blank"}, [IDDU](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/Infectious-Disease-Dynamics){target="_blank"}, and [ACEFA](https://acefa-labs.github.io){target="_blank"} palettes. 
+`idpalette` provides a set of colour ramps and utility functions in [IDEM](https://www.thekids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/){target="_blank"}, [IDDU](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/Infectious-Disease-Dynamics){target="_blank"}, and [ACEFA](https://acefa-labs.github.io){target="_blank"} palettes.
+
+## `targets.utils`
+
+<https://geryan.github.io/targets.utils/>
+
+`targets.utils` provides utility functions for working with `targets` pipelines.
