@@ -4,6 +4,8 @@ project:
 
 website:
   title: "geryan.github.io"
+  body-header: |
+    ![](/images/rhv_nest-area_mekong_2012_37.jpg){.site-banner fig-alt="Nesting area on the Mekong River"}
   navbar:
     left:
       - href: index.qmd
