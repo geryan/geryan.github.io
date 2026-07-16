@@ -9,10 +9,28 @@ p {
   font-family: var(--bs-body-font-family);
 }
 
+main.content {
+  background: #fff;
+  padding: 1.5rem 2rem;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+/* On pages with a title, drop the banner below the heading instead of bleeding to the card top */
+#title-block-header:not(:empty) + p > img.site-banner {
+  margin-top: 0.75rem;
+  border-radius: 0;
+}
+
+/* Bleed the banner to the card edges and round its top corners to match */
 img.site-banner {
   display: block;
-  width: 100%;
+  width: calc(100% + 4rem);
+  max-width: none;
+  margin: -1.5rem -2rem 1rem;
   max-height: 260px;
   object-fit: cover;
-  margin-bottom: 1rem;
+  border-radius: 8px 8px 0 0;
 }

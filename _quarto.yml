@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "geryan.github.io"
+  title: "Gerry Ryan"
   body-header: |
     ![](/images/rhv_nest-area_mekong_2012_37.jpg){.site-banner fig-alt="Nesting area on the Mekong River"}
   navbar:
