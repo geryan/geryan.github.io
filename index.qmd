@@ -1,8 +1,11 @@
 ---
-title: "Gerry Ryan"
+website:
+  title: "Gerry Ryan"
+  site-url: "https://geryan.github.io"
+  open-graph: true
+  twitter-card: true
+  image: "images/rhv_nest-area_mekong_2012_37.jpg"
 ---
-
-![Red-headed vulture nesting habitat in Cambodian dry tropical forest](images/rhv_nest-area_mekong_2012_37.jpg)
 
 I'm a researcher using modelling methods to support decision making in public health and conservation science.
 

@@ -4,14 +4,14 @@
     "href": "software.html",
     "title": "R Packages",
     "section": "",
-    "text": "Red-headed vulture nesting habitat in Cambodian dry tropical forest"
+    "text": "https://idem-lab.github.io/traveltime\ntraveltime includes functions to calculate and create a raster of the travel time over space from a user-supplied collection of points."
   },
   {
     "objectID": "software.html#traveltime",
     "href": "software.html#traveltime",
     "title": "R Packages",
-    "section": "traveltime",
-    "text": "traveltime\nhttps://idem-lab.github.io/traveltime\ntraveltime includes functions to calculate and create a raster of the travel time over space from a user-supplied collection of points."
+    "section": "",
+    "text": "https://idem-lab.github.io/traveltime\ntraveltime includes functions to calculate and create a raster of the travel time over space from a user-supplied collection of points."
   },
   {
     "objectID": "software.html#sdmtools",
@@ -30,16 +30,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Gerry Ryan",
+    "title": "geryan.github.io",
     "section": "",
-    "text": "Red-headed vulture nesting habitat in Cambodian dry tropical forest\n\n\nI’m a researcher using modelling methods to support decision making in public health and conservation science.\n\nMy current research is primarily around modelling mosquito distributions to inform malaria control with the Vector Atlas, as well as other problems in infectious diseases.\nI have expertise in:\n\npopulation dynamics of wildlife and infectious diseases\nspecies distribution modelling and dynamics\nrisk assessment and decision theory\n\nI am a Senior Research Officer in the Infectious Disease Ecology and Modelling Team at The Kids Research Institute Australia (formerly called the Telethon Kids Institute)\nI am an Honorary Research Fellow with with the Infectious Disease Dynamics Unit at the Melbourne School of Global and Population Health, University of Melbourne\nI am an Adjunct Research Fellow in the UWA Medical Centre for Child Health Research at the University of Western Australia\n\n\nPublications\nR Packages\nGoogle Scholar\nORCID: 0000-0003-0183-7630\ngithub\nEmail me: gerry.ryan@thekids.org.au"
+    "text": "I’m a researcher using modelling methods to support decision making in public health and conservation science.\n\nMy current research is primarily around modelling mosquito distributions to inform malaria control with the Vector Atlas, as well as other problems in infectious diseases.\nI have expertise in:\n\npopulation dynamics of wildlife and infectious diseases\nspecies distribution modelling and dynamics\nrisk assessment and decision theory\n\nI am a Senior Research Officer in the Infectious Disease Ecology and Modelling Team at The Kids Research Institute Australia (formerly called the Telethon Kids Institute)\nI am an Honorary Research Fellow with with the Infectious Disease Dynamics Unit at the Melbourne School of Global and Population Health, University of Melbourne\nI am an Adjunct Research Fellow in the UWA Medical Centre for Child Health Research at the University of Western Australia\n\n\nPublications\nR Packages\nGoogle Scholar\nORCID: 0000-0003-0183-7630\ngithub\nEmail me: gerry.ryan@thekids.org.au"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Red-headed vulture nesting habitat in Cambodian dry tropical forest\nMost articles are free to read, but contact me for pdfs:\ngerry.ryan@thekids.org.au"
+    "text": "Most articles are free to read, but contact me for pdfs:\ngerry.ryan@thekids.org.au"
   },
   {
     "objectID": "publications.html#pre-prints",
