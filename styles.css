@@ -1,5 +1,7 @@
 /* css styles — high-contrast charcoal & off-white scheme */
 
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+
 /* Route all Bootstrap/Quarto link colouring (body, TOC, footer) to the ink colour */
 :root {
   --paper: #f4f4f3; /* off-white used in place of pure white throughout */

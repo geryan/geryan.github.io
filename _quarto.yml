@@ -25,6 +25,7 @@ format:
   html:
     theme: litera
     css: styles.css
+    mainfont: "Atkinson Hyperlegible Next"
     toc: true
     
 
