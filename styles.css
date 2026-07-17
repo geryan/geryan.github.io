@@ -18,6 +18,11 @@ main.content {
   margin-bottom: 2rem;
 }
 
+/* Indent year subheadings in the publications list (heading only, not the section body) */
+h5.year-heading {
+  margin-left: 1.5rem;
+}
+
 /* On pages with a title, drop the banner below the heading instead of bleeding to the card top */
 #title-block-header:not(:empty) + p > img.site-banner {
   margin-top: 0.75rem;

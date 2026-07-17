@@ -28,7 +28,11 @@ Conway, E., Walker, C., Lydeamore, M., Golding, N., **Ryan, G.**, Mavec, D., Oat
 
 ## Peer-reviewed articles
 
+##### 2026 {.year-heading}
+
 26.  Moss, R, Tobin, R.J., O'Hara-Wild, M., Adekunle, A.I., Liu, D., South, T., Morris, D.J., **Ryan, G.E.**, Hao, T., Babu, A., Senior, K.L., Wood, J.G., Golding, N., Ross, J.V, Dawson, P., Hyndman, R.J., Price, D.J., McCaw, J.M., & Shearer, F.M. (2026) [Ensemble forecasts of COVID-19 activity to support Australia's pandemic response: 2020–22](https://doi.org/10.1371/journal.pcbi.1014199){target="_blank"} **PLOS Computational Biology**  22(4): e1014199, DOI 10.1371/journal.pcbi.1014199
+
+##### 2025 {.year-heading}
 
 25.  Le, T.P., Conway, E., Akpan, E., Abell, I., Abraham, P., Baker, C.M., Campbell, P.T., Cromer, D., Lydeamore, M.J., McDonough, Y., Mueller, I., **Ryan, G.**, Walker, C., Wang, Y., Carvalho, N., and McVernon, J. (2025). [Health impact and cost-effectiveness of COVID-19 booster vaccination strategies in the early post-Omicron era: a dynamic modelling study](https://doi.org/10.1136/bmjgh-2024-016096){target="_blank"}. **BMJ Global Health** 10(9): e016096, DOI: 0.1136/bmjgh-2024-016096.
 
@@ -38,6 +42,8 @@ Conway, E., Walker, C., Lydeamore, M., Golding, N., **Ryan, G.**, Mavec, D., Oat
 
 22. Hao, T., **Ryan, G.E.**, Lydeamore, M., Cromer, D., Wood, J, McVernon, J, McCaw, J, Shearer, F.M., and Golding N. (2025). [Predicting immune protection against outcomes of infectious disease from population-level effectiveness data with application to COVID-19](https://doi.org/10.1016/j.vaccine.2025.126987){target="_blank"}. **Vaccine** 55: 126987
 
+##### 2024 {.year-heading}
+
 21. **Ryan, G.E.**, Nicholson, E., Baker, C.M., and McCarthy, M. A. (2024). [The costs and benefits of publicising species discoveries](https://doi.org/10.1111/conl.13044){target="_blank"}. **Conservation Letters** 17(5): e13044
 
 20. Shearer, F.M, Edwards, L., Kirk, M., Eales, O., Golding, N., Hassall, J., Liu, B., Lydeamore, M., Miller, C., Moss, R., Price, D.J., **Ryan, G.E**, Sullivan, S., Tobin, R., Ward, K., Kaldor, K., Cheng, A.C., Wood, J., and McCaw, J.M. (2024). [Opportunities to strengthen respiratory virus surveillance systems in Australia: lessons learned from the COVID-19 response](https://doi.org/10.33321/cdi.2024.48.47){target="blank"}. **Communicable Diseases Intelligence** 2024 (48) https://doi.org/10.33321/cdi.2024.48.47
@@ -46,15 +52,21 @@ Conway, E., Walker, C., Lydeamore, M., Golding, N., **Ryan, G.**, Mavec, D., Oat
 
 18. **Ryan, G.E.**, Shearer, F.M., McCaw, J.M., McVernon, J. and Golding, N., (2024). [Estimating measures to reduce the transmission of SARS-CoV-2 in Australia to guide a ‘National Plan’ to reopening](https://doi.org/10.1016/j.epidem.2024.100763){target="_blank"}. **Epidemics** 47(2024): 100763
 
+##### 2023 {.year-heading}
+
 17. Zachreson, C., Tobin, R., Szanyi, J., Walker, C., Cromer, D., Shearer, F.M., Conway, E., **Ryan, G.**, Cheng, A., McCaw, J.M. and Geard, N., (2023). [Individual variation in vaccine immune response can produce bimodal distributions of protection](https://doi.org/10.1016/j.vaccine.2023.09.025){target="_blank"}. **Vaccine** 41(45): 6630--6636.
 
 16. Conway, E., Walker, C.R., Baker, C., Lydeamore, M.J., **Ryan, G.E.**, Campbell, T., Miller, J.C., Rebuli, N., Yeung, M., Kabashima, G., Geard, N., Wood, J., McCaw, J.M., McVernon, J., Golding, N., Price, D.J, & Shearer, F.M. (2023). [COVID-19 vaccine coverage targets to inform reopening plans in a low incidence setting](https://doi.org/10.1098/rspb.2023.1437){target="_blank"}. **Proceedings of the Royal Society B**, 290(2005): 20231437.
 
 15. Golding, N., Price, D.J., **Ryan, G.**, McVernon, J., McCaw, J.M. and Shearer, F.M., (2023). [A modelling approach to estimate the transmissibility of SARS-CoV-2 during periods of high, low, and zero case incidence](https://doi.org/10.7554/eLife.78089){target="_blank"}. **eLife**, 12: e78089.
 
+##### 2020 {.year-heading}
+
 14. Borzée, A., McNeely, J., Magellan, K., Miller, J.R., Porter, L., Dutta, T., Kadinjappalli, K.P., Sharma, S., Shahabuddin, G., Aprilinayati, F., **Ryan, G.E** and others (2020). [COVID-19 Highlights the Need for More Effective Wildlife Trade Legislation](https://doi.org/10.1016/j.tree.2020.10.001){target="_blank"}. **Trends in Ecology and Evolution** 35: 1052--1055 [pdf](publications/TREE_35(12)1052–1055_Boruzee&al_2020.pdf){target="_blank"}
 
 10.1 Loveridge, R, **Ryan, GE**, Sum P, Gray-Read, O, Mahood, SP, Mould, A, Harrison, S, Crouthers, R, Ko, S., Clements, T, Eames, JC, & Pruvot, M. (2018). [Poisoning causing the decline in South-East Asia's largest vulture population — CORRIGENDUM](https://doi.org/10.1017/S0959270920000337){target="_blank"}. **Bird Conservation International** 30(3): 494
+
+##### 2019 {.year-heading}
 
 13. Brownell RL Jr, Reeves RR, Read AJ, Smith BD, Thomas PO, Ralls K, Amano M, Berggren P, Chit AM, Collins T, Currey R, Dolar L, Genov T, Hobbs R, Kreb D, Marsh H, Zhigang M, Perrin WF, Phay S, Rojas-Bracho L, **Ryan GE**, Shelden KEW, Slooten E, Taylor BL, Vidal O, Ding W, Whitty TS, & Wang JY (2019). [Bycatch in gillnet fisheries threatens Critically Endangered small cetaceans and other aquatic megafauna](https://doi.org/10.3354/esr00994){target="_blank"}. **Endangered Species Research** 40: 285--296
 
@@ -64,21 +76,33 @@ Conway, E., Walker, C., Lydeamore, M., Golding, N., **Ryan, G.**, Mavec, D., Oat
 
 6.1. **Ryan, GE**, & Baker, CM (2019). [Corrigendum to "A general method for assessing the risks and benefits of secrecy in conserving 'Lazarus species" \[Biol. Cons. 203, 186--187\]](https://doi.org/10.1016/j.biocon.2018.12.003){target="_blank"}. **Biological Conservation** 230: 47
 
+##### 2018 {.year-heading}
+
 10. Loveridge, R, **Ryan, GE**, Sum P, Grey-Read, O, Mahood, SP, Mould, A, Harrison, S, Crouthers, R, Ko, S., Clements, T, Eames, JC, & Pruvot, M. (2018). [Poisoning causing the decline in South-East Asia's largest vulture population](https://doi.org/10.1017/S0959270918000126){target="_blank"}. **Bird Conservation International** 29(1): 41--54
 
 9. Krutzen, M, Beasley I, Ackermann, CY, Lieckfeldt, D, Ludwig, A, **Ryan, GE**, Bejder, L, Parra, GJ, Wolfensberger, R, & Spencer, PBS (2018). [Demographic collapse and low genetic diversity of the Irrawaddy dolphin population inhabiting the Mekong River](https://doi.org/10.1371/journal.pone.0189200){target="_blank"}. **PLOS ONE** 13(1): e0189200
+
+##### 2017 {.year-heading}
 
 8. Brownell, RL, Reeves, RR, Thomas, PO, Smith, BD, & **Ryan, GE** (2017). [Dams threaten rare Mekong dolphins](https://doi.org/10.1126/science.aam6406){target="_blank"}. **Science** 355(6327): 805
 
 7. Mustika, PLK, Welters, R, **Ryan, GE**, D'Lima, C, Sorongon-Yap, P, Jutapruet S, & Peter, C (2017). [A rapid assessment of wildlife tourism risk posed to cetaceans in Asia](http://dx.doi.org/10.1080/09669582.2016.1257012){target="_blank"}. **Journal of Sustainable Tourism** 25(8): 1138--115
 
+##### 2016 {.year-heading}
+
 6. **Ryan, GE**, & Baker, CM (2016). [A general method for assessing the risks and benefits of secrecy in conserving 'Lazarus species'](http://dx.doi.org/10.1016/j.biocon.2016.09.022){target="_blank"}. **Biological Conservation** 203: 186--187. See also Corrigendum, Ryan & Baker (2019)
 
+##### 2013 {.year-heading}
+
 5. Singh, R. Phan C, Prum S, Pin C, **Ryan, G**, & Wright, M (2013). [The Serengeti of Asia: current status of the Eastern Plains Landscape protected area complex, Cambodia](https://doi.org/10.2305/IUCN.CH.2013.PARKS-19-2.RS.en){target="_blank"}. **PARKS** 19(2): 23-32
+
+##### 2012 {.year-heading}
 
 4. **Ryan, GE** (2012). [Brahminy kites *Haliastur indus* fishing with Irrawaddy dolphins *Orcaella brevirostris* in the Mekong River](https://www.researchgate.net/publication/289744193_Brahminy_Kites_Haliastur_indus_fishing_with_Irrawaddy_dolphins_Orcaella_brevirostris_in_the_Mekong_River){target="_blank"}. **Forktail** 28: 161-162
 
 3. Sok K, Claassen, AH, Wright, HL, & **Ryan, GE** (2012). [Waterbird nest protection on the Mekong River: a preliminary evaluation, with notes on the recovery and release of white-shouldered ibis Pseudibis davisoni chicks](https://www.fauna-flora.org/wp-content/uploads/2023/05/FFI_201207_Cambodian-Journal-of-Natural-History.pdf){target="_blank"}. **Cambodian Journal of Natural History** 2012(1): 29-41
+
+##### 2011 {.year-heading}
 
 2. McCarthy, MA, Garrard, GE, Moore, AL, Parris, KM, Regan, TJ, & **Ryan, GE** (2011). [The SAFE index should not be used for prioritization](https://doi.org/10.1890/11.WB.027){target="_blank"}. **Frontiers in Ecology and the Environment** 9(9): 486--487
 
