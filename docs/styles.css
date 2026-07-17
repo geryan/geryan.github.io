@@ -90,6 +90,23 @@ a:focus {
   color: #666;
 }
 
+/* Monochrome code spans: grey instead of the theme's purple */
+code {
+  color: #666;
+}
+
+/* TOC current-section highlight and hover: monochrome instead of the theme's blue */
+.sidebar nav[role="doc-toc"] ul > li > a.active,
+.sidebar nav[role="doc-toc"] ul > li > ul > li > a.active {
+  border-left: 1px solid #666;
+  color: #666 !important;
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a:hover,
+.sidebar nav[role="doc-toc"] ul > li > ul > li > a:hover {
+  color: var(--ink) !important;
+}
+
 /* Space out list entries so each reference reads as a distinct unit */
 main.content li {
   margin-bottom: 0.9rem;
