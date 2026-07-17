@@ -1,4 +1,6 @@
 ---
+title: ""
+toc: false
 website:
   title: "Gerry Ryan"
   site-url: "https://geryan.github.io"
@@ -7,23 +9,45 @@ website:
   image: "images/dsc_0594-1680_wide_bw.png"
 ---
 
-I'm a researcher using modelling methods to support decision making in public health and conservation science.
+::: hero-lead
+I'm **Gerry Ryan**, a researcher using modelling methods to support decision making in public health and conservation science.
+:::
 
-- My current research is primarily around modelling mosquito distributions to inform malaria control with the [Vector Atlas](https://vectoratlas.icipe.org){target="_blank"}, as well as other problems in infectious diseases.
-- I have expertise in:
-  - population dynamics of wildlife and infectious diseases
-  - species distribution modelling and dynamics
-  - risk assessment and decision theory
-- I am a Senior Research Officer in the [Infectious Disease Ecology and Modelling Team](https://www.thekids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/){target="_blank"} at The Kids Research Institute Australia (*formerly called the Telethon Kids Institute*)
-- I am an Honorary Research Fellow with with the [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/Infectious-Disease-Dynamics){target="_blank"} at the Melbourne School of Global and Population Health, University of Melbourne
-- I am an Adjunct Research Fellow in the UWA Medical Centre for Child Health Research at the University of Western Australia
+## Current work {.home-h2}
 
-\n
-\n
+I'm modelling mosquito distributions to inform malaria control with the [Vector Atlas](https://vectoratlas.icipe.org){target="_blank"}, alongside other problems in infectious disease.
 
-- [Publications](publications.qmd)
-- [R Packages](software.qmd)
-- [Google Scholar](https://scholar.google.com.au/citations?user=pU7MMEoAAAAJ&hl=en){target="_blank"}
-- [ORCID: 0000-0003-0183-7630](https://orcid.org/0000-0003-0183-7630){target="_blank"}
-- [github](https://github.com/geryan){target="_blank"}
-- Email me: [gerry.ryan\@thekids.org.au](mailto:gerry.ryan@thekids.org.au){.email}
+## Expertise {.home-h2}
+
+- Population dynamics of wildlife and infectious diseases
+- Species distribution modelling and dynamics
+- Risk assessment and decision theory
+
+## Roles {.home-h2}
+
+::: roles
+
+Senior Research Officer
+
+:   [Infectious Disease Ecology and Modelling Team](https://www.thekids.org.au/our-research/brain-and-behaviour/child-health-analytics-research-program/infectious-disease-ecology-and-modelling/){target="_blank"}, The Kids Research Institute Australia *(formerly the Telethon Kids Institute)*
+
+Honorary Research Fellow
+
+:   [Infectious Disease Dynamics Unit](https://mspgh.unimelb.edu.au/research-groups/centre-for-epidemiology-and-biostatistics-research/Infectious-Disease-Dynamics){target="_blank"}, Melbourne School of Global and Population Health, University of Melbourne
+
+Adjunct Research Fellow
+
+:   UWA Medical Centre for Child Health Research, University of Western Australia
+:::
+
+## My work {.home-h2}
+
+::: profile-links
+[Publications](publications.qmd) [R Packages](software.qmd)
+:::
+
+## Elsewhere {.home-h2}
+
+::: profile-links
+[Google Scholar](https://scholar.google.com.au/citations?user=pU7MMEoAAAAJ&hl=en){target="_blank"} [ORCID](https://orcid.org/0000-0003-0183-7630){target="_blank"} [GitHub](https://github.com/geryan){target="_blank"} [Email](mailto:gerry.ryan@thekids.org.au){.email}
+:::
