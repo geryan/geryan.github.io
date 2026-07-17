@@ -4,7 +4,7 @@ website:
   site-url: "https://geryan.github.io"
   open-graph: true
   twitter-card: true
-  image: "images/rhv_nest-area_mekong_2012_37.jpg"
+  image: "images/rhv_nest-area_mekong_recolour.png"
 ---
 
 I'm a researcher using modelling methods to support decision making in public health and conservation science.

@@ -5,7 +5,7 @@ project:
 website:
   title: "Gerry Ryan"
   body-header: |
-    ![](/images/rhv_nest-area_mekong_2012_37.jpg){.site-banner fig-alt="Nesting area on the Mekong River"}
+    ![](/images/rhv_nest-area_mekong_recolour.png){.site-banner fig-alt="Stylised illustration of a nesting area on the Mekong River"}
   navbar:
     left:
       - href: index.qmd

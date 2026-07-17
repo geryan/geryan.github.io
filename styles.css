@@ -18,9 +18,28 @@ main.content {
   margin-bottom: 2rem;
 }
 
+/* Darken links from Litera's #4582ec (3.1:1 on white) to meet WCAG AA contrast */
+a {
+  color: #0a58ca;
+}
+
+a:hover,
+a:focus {
+  color: #084298;
+}
+
+/* Space out list entries so each reference reads as a distinct unit */
+main.content li {
+  margin-bottom: 0.9rem;
+  line-height: 1.55;
+}
+
 /* Indent year subheadings in the publications list (heading only, not the section body) */
 h5.year-heading {
   margin-left: 1.5rem;
+  margin-top: 2.25rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e2e2e2;
 }
 
 /* On pages with a title, drop the banner below the heading instead of bleeding to the card top */
