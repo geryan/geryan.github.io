@@ -157,6 +157,80 @@ p:has(> img.site-banner)::after {
   margin-top: 0.75rem;
 }
 
+/* Home page hero statement: large, light-weight framing line under the banner */
+.hero-lead {
+  font-size: 1.6rem;
+  font-weight: 300;
+  line-height: 1.45;
+  margin: 2rem 0 2.75rem;
+}
+
+.hero-lead strong {
+  font-weight: 600;
+}
+
+/* Homepage section headings: two-thirds of the default h2 size (scaling the same
+   way as Litera's h2) so they sit below the hero lead rather than dominating it */
+h2.home-h2 {
+  font-size: calc((1.29rem + 0.48vw) * 2 / 3);
+}
+
+/* Roles as a definition list: letterspaced label above the institution */
+.roles dl {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+}
+
+.roles dt {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #666;
+  margin-top: 1.35rem;
+}
+
+.roles dd {
+  margin-left: 0;
+  margin-bottom: 0;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+/* Profile / navigation links as bordered chips that invert on hover, echoing the
+   navbar and letterbox motifs rather than sitting as a plain bullet list */
+.profile-links {
+  margin-top: 0.75rem;
+}
+
+/* Pandoc wraps the consecutive links in a <p>; lay the chips out on that element */
+.profile-links,
+.profile-links p {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.profile-links p {
+  margin: 0;
+}
+
+.profile-links a {
+  display: inline-block;
+  padding: 0.5rem 1.1rem;
+  border: 2px solid var(--ink);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.85rem;
+}
+
+.profile-links a:hover,
+.profile-links a:focus {
+  color: var(--paper);
+  background-color: var(--ink);
+}
+
 /* Full image at its natural aspect ratio, with a bleak grade: crushed blacks, pulled-down highlights */
 img.site-banner {
   display: block;
