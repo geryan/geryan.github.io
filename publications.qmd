@@ -140,6 +140,10 @@ Rodgers, M, Nash, E, Blate, G, Congdon, G, & **Ryan, GE** (2012). [Resilience on
 
 ## Data
 
+**Ryan, G**, Sinka, M, & Golding, N (2026). Vector Atlas Species Abundance and Distribution Maps. The University of Melbourne. Dataset. Figshare [DOI: 10.26188/34044441](https://doi.org/10.26188/34044441){target="_blank"}
+
+**Ryan, G**, Chikolwa, T, Musselwhite, G, Sinka, M, & Golding, N (2026). *Anopheles* Research Locations. The University of Melbourne. Dataset. Figshare [DOI: 10.26188/34028508](https://doi.org/10.26188/34028508){target="_blank"}
+
 **Ryan, G**, Nicholson, E, & McCarthy, M (2024). Data and questionnaire for "The costs and benefits of publicising species discoveries". The University of Melbourne. Dataset. Figshare [DOI: 10.26188/11357126](https://doi.org/10.26188/11357126){target="_blank"}
 
 ## Archived code
